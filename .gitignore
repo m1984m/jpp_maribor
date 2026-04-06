@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Environment & secrets
+.env
+.env.*
+*.key
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Build
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+vozila_csv/
+
+# Temporary
+*.tmp
+*.log
