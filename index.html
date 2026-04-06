@@ -3,34 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JPP Maribor — Vizualizacija GTFS</title>
+    <title>JPP Maribor — Vizualizacija javnega prometa</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🚌</text></svg>">
     <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css">
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <!-- Upload screen -->
-    <div id="upload-screen">
-        <div class="upload-container">
-            <div class="upload-icon">🚌</div>
+    <!-- Loading screen -->
+    <div id="loading-screen">
+        <div class="loading-container">
+            <div class="loading-icon">🚌</div>
             <h1>JPP Maribor</h1>
             <p>Vizualizacija javnega potniškega prometa</p>
-            <div id="drop-zone">
-                <div class="drop-content">
-                    <span class="drop-icon">📂</span>
-                    <p>Povleci GTFS .zip datoteko sem</p>
-                    <p class="drop-hint">ali klikni za izbiro</p>
-                </div>
-                <input type="file" id="file-input" accept=".zip" hidden>
-            </div>
-            <div id="upload-status" class="hidden">
-                <div class="spinner"></div>
-                <span id="status-text">Nalagam...</span>
-            </div>
-            <div class="info-box">
-                <p><strong>GTFS</strong> (General Transit Feed Specification) je standardni format za podatke javnega prevoza.</p>
-                <p>Potrebne datoteke: <code>stops.txt</code>, <code>stop_times.txt</code>, <code>trips.txt</code>, <code>routes.txt</code></p>
-                <p>Opcijsko: <code>shapes.txt</code> za natančne geometrije tras</p>
-            </div>
+            <div class="loading-bar"><div class="loading-fill"></div></div>
+            <span id="loading-status">Nalagam podatke...</span>
         </div>
     </div>
 
@@ -41,8 +27,12 @@
         <!-- Sidebar -->
         <div id="sidebar">
             <div class="sidebar-header">
-                <h3>🚌 Linije</h3>
-                <button id="back-btn" title="Nazaj na upload">← Nazaj</button>
+                <h3>Linije</h3>
+                <div class="day-filter">
+                    <button class="day-btn active" data-day="mon">D</button>
+                    <button class="day-btn" data-day="sat">S</button>
+                    <button class="day-btn" data-day="sun">N</button>
+                </div>
             </div>
             <div class="toggle-buttons">
                 <button id="select-all-btn">Vse</button>
@@ -54,22 +44,31 @@
             </div>
         </div>
 
+        <!-- Follow banner -->
+        <div id="follow-banner" class="hidden">
+            <span id="follow-info"></span>
+            <button id="follow-close">✕</button>
+        </div>
+
         <!-- Timeline -->
         <div id="timeline">
-            <div class="timeline-controls">
-                <button id="play-btn" title="Predvajaj">▶</button>
-                <button id="reset-btn" title="Ponastavi">⏮</button>
-                <select id="speed-select" title="Hitrost">
-                    <option value="0.5">0.5x</option>
-                    <option value="1" selected>1x</option>
-                    <option value="2">2x</option>
-                    <option value="5">5x</option>
-                    <option value="10">10x</option>
-                    <option value="30">30x</option>
-                    <option value="60">60x</option>
-                </select>
+            <div class="timeline-row">
+                <div class="timeline-controls">
+                    <button id="play-btn" title="Predvajaj / Pavza">▶</button>
+                    <button id="reset-btn" title="Na začetek">⏮</button>
+                    <select id="speed-select" title="Hitrost animacije">
+                        <option value="0.5">0.5x</option>
+                        <option value="1" selected>1x</option>
+                        <option value="2">2x</option>
+                        <option value="5">5x</option>
+                        <option value="10">10x</option>
+                        <option value="30">30x</option>
+                        <option value="60">60x</option>
+                    </select>
+                </div>
+                <div id="time-display">04:00</div>
             </div>
-            <input type="range" id="time-slider" min="0" max="86400" step="1" value="14400">
+            <input type="range" id="time-slider" min="14400" max="86400" step="1" value="14400">
             <div class="timeline-labels">
                 <span>04:00</span>
                 <span>08:00</span>
@@ -78,15 +77,11 @@
                 <span>20:00</span>
                 <span>00:00</span>
             </div>
-            <div id="time-display">04:00:00</div>
         </div>
     </div>
 
     <script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
     <script src="https://unpkg.com/deck.gl@9.1.7/dist.min.js"></script>
-    <script src="https://unpkg.com/jszip@3.10.1/dist/jszip.min.js"></script>
-    <script src="https://unpkg.com/papaparse@5.4.1/papaparse.min.js"></script>
-    <script src="js/gtfs-parser.js"></script>
     <script src="js/app.js"></script>
 </body>
 </html>

@@ -1,0 +1,2 @@
+# Keep only the processed file, ignore raw WFS dumps
+*.geojson
