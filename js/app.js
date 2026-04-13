@@ -1,11 +1,12 @@
 /**
  * JPP Maribor — Marprom bus visualization
  *
- * Loads pre-processed Marprom data and animates buses on a dark map.
+ * Loads pre-processed Marprom data and animates buses on a map.
  * Architecture:
  *   - tripsCache: rebuilt only on line/day change
  *   - renderLayers: called per frame, only updates currentTime
  *   - Click bus → camera follows it
+ *   - Dark/light theme toggle
  */
 
 (() => {
@@ -21,6 +22,7 @@
     let lastFrameTime = null;
     let animFrameId = null;
     let lineWidth = 3;            // route line width (slider)
+    let isDark = true;            // theme
 
     // Follow mode
     let followTripId = null;
@@ -29,6 +31,12 @@
     let tripsCache = [];         // [{path, color, line, id, headsign}, ...]
     let routeLinesCache = [];    // [{coords, color}, ...]
     let lineStopsMap = {};       // lineCode → Set<stopIdx>
+
+    // ── Tiles ──
+    const TILES = {
+        dark: 'https://basemaps.cartocdn.com/dark_all/{z}/{x}/{y}@2x.png',
+        light: 'https://basemaps.cartocdn.com/light_all/{z}/{x}/{y}@2x.png'
+    };
 
     // ── DOM ──
     const $ = id => document.getElementById(id);
@@ -48,6 +56,7 @@
     const followInfo = $('follow-info');
     const followClose = $('follow-close');
     const lineWidthSlider = $('line-width-slider');
+    const themeBtn = $('theme-btn');
 
     // ── Load data ──
 
@@ -61,6 +70,10 @@
 
             buildLineStopsMap();
 
+            // Restore theme from localStorage
+            const saved = localStorage.getItem('jpp-theme');
+            if (saved === 'light') isDark = false;
+
             setTimeout(showMap, 300);
         } catch (err) {
             loadingStatus.textContent = `Napaka: ${err.message}`;
@@ -69,7 +82,6 @@
 
     function buildLineStopsMap() {
         lineStopsMap = {};
-        // Build spatial index of stops
         const stopGrid = new Map();
         const RES = 0.0008;
         marprom.stops.forEach((s, idx) => {
@@ -94,8 +106,6 @@
         }
     }
 
-    const DAY_MAP = { mon: "mon", sat: "sat", sun: "sun" };
-
     function tripMatchesDay(trip) {
         if (!trip.days || trip.days.length === 0) return true;
         if (dayFilter === "mon") return trip.days.some(d => ["mon", "tue", "wed", "thu", "fri"].includes(d));
@@ -110,24 +120,11 @@
         loadingScreen.classList.add('hidden');
         mapScreen.classList.remove('hidden');
 
+        applyThemeClass();
+
         map = new maplibregl.Map({
             container: 'map',
-            style: {
-                version: 8,
-                sources: {
-                    'carto-dark': {
-                        type: 'raster',
-                        tiles: ['https://basemaps.cartocdn.com/dark_all/{z}/{x}/{y}@2x.png'],
-                        tileSize: 256,
-                        attribution: '&copy; <a href="https://carto.com/">CARTO</a> &copy; <a href="https://www.openstreetmap.org/copyright">OSM</a>'
-                    }
-                },
-                layers: [{
-                    id: 'base',
-                    type: 'raster',
-                    source: 'carto-dark'
-                }]
-            },
+            style: buildMapStyle(),
             center: [15.6459, 46.5546],
             zoom: 13,
             minZoom: 10,
@@ -144,6 +141,41 @@
         map.on('zoomend', () => { if (tripsCache.length) renderLayers(); });
     }
 
+    function buildMapStyle() {
+        const tile = isDark ? TILES.dark : TILES.light;
+        return {
+            version: 8,
+            sources: {
+                'carto': {
+                    type: 'raster',
+                    tiles: [tile],
+                    tileSize: 256,
+                    attribution: '&copy; <a href="https://carto.com/">CARTO</a> &copy; <a href="https://www.openstreetmap.org/copyright">OSM</a>'
+                }
+            },
+            layers: [{ id: 'base', type: 'raster', source: 'carto' }]
+        };
+    }
+
+    // ── Theme ──
+
+    function applyThemeClass() {
+        document.body.classList.toggle('light-theme', !isDark);
+        if (themeBtn) themeBtn.textContent = isDark ? '☀' : '☾';
+    }
+
+    function toggleTheme() {
+        isDark = !isDark;
+        localStorage.setItem('jpp-theme', isDark ? 'dark' : 'light');
+        applyThemeClass();
+        if (map) map.setStyle(buildMapStyle());
+        // Re-init deck after style change
+        map.once('style.load', () => {
+            initDeckOverlay();
+            rebuildCache();
+        });
+    }
+
     // ── deck.gl ──
 
     function initDeckOverlay() {
@@ -152,7 +184,6 @@
     }
 
     function rebuildCache() {
-        // Trips
         tripsCache = [];
         for (const trip of marprom.trips) {
             if (!activeLines.has(trip.line)) continue;
@@ -168,7 +199,6 @@
             });
         }
 
-        // Route lines (static, for active lines)
         routeLinesCache = [];
         const seenRoutes = new Set();
         for (const rl of marprom.routeLines) {
@@ -178,9 +208,10 @@
             seenRoutes.add(key);
             const lineInfo = marprom.lines[rl.code];
             if (!lineInfo) continue;
+            const alpha = isDark ? 50 : 80;
             routeLinesCache.push({
                 coords: rl.coords,
-                color: [...hexToRgb(lineInfo.color), 50]
+                color: [...hexToRgb(lineInfo.color), alpha]
             });
         }
 
@@ -192,10 +223,8 @@
 
         const TRAIL = 150;
         const zoom = map ? map.getZoom() : 13;
-        // Scale glow effects by zoom — fade out at low zoom to prevent giant blobs
-        const glowScale = Math.max(0, Math.min(1, (zoom - 10) / 3)); // 0 at z10, 1 at z13+
 
-        // 1. Static route lines (subtle background)
+        // 1. Static route lines
         const routePathLayer = new deck.PathLayer({
             id: 'route-paths',
             data: routeLinesCache,
@@ -209,31 +238,14 @@
             parameters: { depthTest: false }
         });
 
-        // 2. Glow trail
-        const glowLayer = new deck.TripsLayer({
-            id: 'glow',
-            data: tripsCache,
-            getPath: d => d.path,
-            getTimestamps: d => d.path.map(p => p[2]),
-            getColor: d => [...d.color, Math.floor(50 * glowScale)],
-            opacity: 0.35 * glowScale,
-            widthMinPixels: Math.max(2, lineWidth * 4) * glowScale,
-            widthMaxPixels: Math.max(14, lineWidth * 9),
-            jointRounded: true,
-            capRounded: true,
-            trailLength: TRAIL * 0.5,
-            currentTime,
-            parameters: { depthTest: false }
-        });
-
-        // 3. Main trail
+        // 2. Main trail
         const tripsLayer = new deck.TripsLayer({
             id: 'trips',
             data: tripsCache,
             getPath: d => d.path,
             getTimestamps: d => d.path.map(p => p[2]),
             getColor: d => d.color,
-            opacity: 0.85,
+            opacity: isDark ? 0.85 : 0.95,
             widthMinPixels: Math.max(1, lineWidth * 0.8),
             widthMaxPixels: Math.max(3, lineWidth * 2.5),
             jointRounded: true,
@@ -243,41 +255,33 @@
             parameters: { depthTest: false }
         });
 
-        // 4. Vehicles
+        // 3. Vehicles
         const vehicles = getVehiclePositions();
-
-        const vehicleGlow = new deck.ScatterplotLayer({
-            id: 'v-glow',
-            data: vehicles,
-            getPosition: d => d.position,
-            getFillColor: d => [...d.color, Math.floor(40 * glowScale)],
-            getRadius: 60,
-            radiusMinPixels: Math.floor(12 * glowScale),
-            radiusMaxPixels: 35,
-            radiusUnits: 'meters',
-            parameters: { depthTest: false }
-        });
 
         const vehicleLayer = new deck.ScatterplotLayer({
             id: 'vehicles',
             data: vehicles,
             getPosition: d => d.position,
-            getFillColor: d => d.id === followTripId ? [255, 255, 255, 255] : [...d.color, 240],
+            getFillColor: d => d.id === followTripId
+                ? (isDark ? [255, 255, 255, 255] : [40, 40, 40, 255])
+                : [...d.color, 240],
             getRadius: d => d.id === followTripId ? 40 : 25,
             radiusMinPixels: 5,
             radiusMaxPixels: 16,
             radiusUnits: 'meters',
             stroked: true,
-            getLineColor: d => d.id === followTripId ? d.color : [255, 255, 255, 180],
-            lineWidthMinPixels: d => d.id === followTripId ? 3 : 1.5,
+            getLineColor: d => d.id === followTripId
+                ? d.color
+                : (isDark ? [255, 255, 255, 180] : [40, 40, 40, 180]),
+            lineWidthMinPixels: 1.5,
             pickable: true,
             autoHighlight: true,
-            highlightColor: [255, 255, 255, 80],
+            highlightColor: isDark ? [255, 255, 255, 80] : [0, 0, 0, 60],
             onClick: onVehicleClick,
             parameters: { depthTest: false }
         });
 
-        // 5. Stops
+        // 4. Stops
         const stopsData = buildStopsData(vehicles);
 
         const stopsLayer = new deck.ScatterplotLayer({
@@ -298,9 +302,10 @@
             transitions: { getRadius: 200, getFillColor: 200 }
         });
 
-        // 6. Stop labels at high zoom
-        const layers = [routePathLayer, glowLayer, tripsLayer, stopsLayer, vehicleGlow, vehicleLayer];
+        // 5. Layers
+        const layers = [routePathLayer, tripsLayer, stopsLayer, vehicleLayer];
 
+        // 6. Stop labels at high zoom
         if (zoom >= 15) {
             layers.push(new deck.TextLayer({
                 id: 'stop-labels',
@@ -308,14 +313,14 @@
                 getPosition: d => d.position,
                 getText: d => d.name,
                 getSize: 11,
-                getColor: [255, 255, 255, 180],
+                getColor: isDark ? [255, 255, 255, 180] : [30, 30, 30, 200],
                 getTextAnchor: 'start',
                 getAlignmentBaseline: 'center',
                 getPixelOffset: [8, 0],
                 fontFamily: '"Segoe UI", system-ui, sans-serif',
                 fontWeight: 500,
                 outlineWidth: 2,
-                outlineColor: [0, 0, 0, 200],
+                outlineColor: isDark ? [0, 0, 0, 200] : [255, 255, 255, 220],
                 billboard: false,
                 sizeUnits: 'pixels',
                 parameters: { depthTest: false }
@@ -324,17 +329,16 @@
 
         deckOverlay.setProps({ layers });
 
-        // Follow mode: track vehicle
+        // Follow mode
         if (followTripId) {
             const followed = vehicles.find(v => v.id === followTripId);
             if (followed) {
                 map.easeTo({
                     center: followed.position,
                     duration: isPlaying ? 800 : 300,
-                    easing: t => t * (2 - t) // easeOutQuad
+                    easing: t => t * (2 - t)
                 });
             } else {
-                // Trip ended
                 unfollowVehicle();
             }
         }
@@ -347,7 +351,6 @@
             if (path.length < 2) continue;
             if (currentTime < path[0][2] || currentTime > path[path.length - 1][2]) continue;
 
-            // Binary search
             let lo = 0, hi = path.length - 2;
             while (lo < hi) {
                 const mid = (lo + hi) >> 1;
@@ -359,12 +362,8 @@
             if (b[2] <= a[2]) continue;
             const t = Math.min(1, Math.max(0, (currentTime - a[2]) / (b[2] - a[2])));
 
-            // Compute heading for potential future use
-            const lng = a[0] + t * (b[0] - a[0]);
-            const lat = a[1] + t * (b[1] - a[1]);
-
             out.push({
-                position: [lng, lat],
+                position: [a[0] + t * (b[0] - a[0]), a[1] + t * (b[1] - a[1])],
                 color: trip.color,
                 line: trip.line,
                 id: trip.id,
@@ -375,13 +374,12 @@
     }
 
     function buildStopsData(vehicles) {
-        const PROXIMITY = 150; // meters
+        const PROXIMITY = 150;
         const result = [];
-        const defaultColor = [140, 140, 170, 70];
-        const defaultStroke = [255, 255, 255, 20];
+        const defaultColor = isDark ? [140, 140, 170, 70] : [120, 120, 140, 100];
+        const defaultStroke = isDark ? [255, 255, 255, 20] : [80, 80, 80, 40];
 
-        // Determine active stop colors
-        const stopColors = new Map(); // idx → [r,g,b]
+        const stopColors = new Map();
         for (const line of activeLines) {
             const stops = lineStopsMap[line];
             if (!stops) continue;
@@ -399,17 +397,18 @@
             const isActive = !!cached;
 
             if (cached) {
-                color = [...cached, 130];
-                stroke = [...cached, 180];
+                color = [...cached, isDark ? 130 : 180];
+                stroke = [...cached, isDark ? 180 : 220];
                 radius = 16;
 
-                // Check vehicle proximity
                 for (const v of vehicles) {
                     const dist = quickDist(stop.lat, stop.lon, v.position[1], v.position[0]);
                     if (dist < PROXIMITY) {
                         const intensity = 1 - dist / PROXIMITY;
                         color = [...v.color, Math.floor(140 + 115 * intensity)];
-                        stroke = [255, 255, 255, Math.floor(120 + 135 * intensity)];
+                        stroke = isDark
+                            ? [255, 255, 255, Math.floor(120 + 135 * intensity)]
+                            : [40, 40, 40, Math.floor(120 + 135 * intensity)];
                         radius = 16 + 50 * intensity * intensity;
                         break;
                     }
@@ -598,7 +597,7 @@
 
     function startAnim() {
         isPlaying = true;
-        playBtn.textContent = '⏸';
+        playBtn.textContent = '\u23F8';
         playBtn.classList.add('playing');
         lastFrameTime = performance.now();
         animFrameId = requestAnimationFrame(loop);
@@ -607,7 +606,7 @@
 
     function stopAnim() {
         isPlaying = false;
-        playBtn.textContent = '▶';
+        playBtn.textContent = '\u25B6';
         playBtn.classList.remove('playing');
         if (animFrameId) { cancelAnimationFrame(animFrameId); animFrameId = null; }
         map?.off('zoom', onZoom);
@@ -656,6 +655,9 @@
         lineWidth = parseFloat(lineWidthSlider.value);
         renderLayers();
     });
+
+    // ── Theme toggle ──
+    themeBtn.addEventListener('click', toggleTheme);
 
     // ── Start ──
     init();
