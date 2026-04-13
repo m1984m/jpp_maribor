@@ -83,14 +83,23 @@ def main():
     stops_data = load("marprom_postajalisca.geojson")
 
     # 1. Lines metadata
+    # Override za barve ki so pretemne na dark karti (WFS original → bolj vidne)
+    COLOR_OVERRIDES = {
+        "G1": "#7B7880",  # was #323033 (skoraj črna)
+        "G4": "#4A7BBF",  # was #1C3564 (zelo temno modra)
+        "G6": "#2EAD5A",  # was #1A6734 (zelo temno zelena)
+        "P7": "#D03035",  # was #8A181A (zelo temno rdeča)
+    }
+
     lines = {}
     for feat in lines_routes["features"]:
         p = feat["properties"]
         code = p["code"]
+        color = COLOR_OVERRIDES.get(code, p["color"].strip())
         lines[code] = {
             "code": code,
             "name": f"{code} {p['description']}",
-            "color": p["color"].strip(),
+            "color": color,
             "lineId": p["line_id"],
         }
     print(f"  {len(lines)} lines")
