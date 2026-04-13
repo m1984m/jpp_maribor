@@ -656,6 +656,45 @@
         renderLayers();
     });
 
+    // ── Sidebar resize (mobile) ──
+    const sidebarEl = $('sidebar');
+    const sidebarHandle = $('sidebar-handle');
+    let dragging = false;
+    let dragStartY = 0;
+    let dragStartH = 0;
+
+    function onDragStart(e) {
+        if (window.innerWidth > 768) return;
+        dragging = true;
+        const touch = e.touches ? e.touches[0] : e;
+        dragStartY = touch.clientY;
+        dragStartH = sidebarEl.offsetHeight;
+        sidebarHandle.style.cursor = 'grabbing';
+        e.preventDefault();
+    }
+
+    function onDragMove(e) {
+        if (!dragging) return;
+        const touch = e.touches ? e.touches[0] : e;
+        const dy = dragStartY - touch.clientY;
+        const newH = Math.max(80, Math.min(window.innerHeight * 0.6, dragStartH + dy));
+        sidebarEl.style.maxHeight = newH + 'px';
+        e.preventDefault();
+    }
+
+    function onDragEnd() {
+        if (!dragging) return;
+        dragging = false;
+        sidebarHandle.style.cursor = '';
+    }
+
+    sidebarHandle.addEventListener('touchstart', onDragStart, { passive: false });
+    sidebarHandle.addEventListener('mousedown', onDragStart);
+    document.addEventListener('touchmove', onDragMove, { passive: false });
+    document.addEventListener('mousemove', onDragMove);
+    document.addEventListener('touchend', onDragEnd);
+    document.addEventListener('mouseup', onDragEnd);
+
     // ── Theme toggle ──
     themeBtn.addEventListener('click', toggleTheme);
 
