@@ -427,14 +427,22 @@ body {
 
 @media (max-width: 768px) {
     #sidebar {
-        width: calc(100% - 32px);
-        max-height: 35vh;
-        top: auto; bottom: 130px; left: 16px;
+        width: calc(100% - 16px);
+        max-height: 25vh;
+        top: auto; bottom: 120px; left: 8px;
+        padding: 10px;
     }
     #timeline {
-        width: calc(100% - 32px);
-        left: 16px;
+        width: calc(100% - 16px);
+        left: 8px;
         transform: none;
+        bottom: calc(6px + env(safe-area-inset-bottom, 0px));
+        padding: 6px 10px;
     }
+    .line-width-control { display: none; }
+    .timeline-controls button,
+    .timeline-controls select { padding: 3px 6px; font-size: 0.78em; }
+    #time-display { font-size: 1.1em; }
+    .timeline-labels { font-size: 0.55em; }
     @keyframes slideUp { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; } }
 }
