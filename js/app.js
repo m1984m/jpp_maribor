@@ -140,6 +140,8 @@
             populateSidebar();
             selectAll();
         });
+
+        map.on('zoomend', () => { if (tripsCache.length) renderLayers(); });
     }
 
     // ── deck.gl ──
@@ -189,6 +191,9 @@
         if (!deckOverlay) return;
 
         const TRAIL = 150;
+        const zoom = map ? map.getZoom() : 13;
+        // Scale glow effects by zoom — fade out at low zoom to prevent giant blobs
+        const glowScale = Math.max(0, Math.min(1, (zoom - 10) / 3)); // 0 at z10, 1 at z13+
 
         // 1. Static route lines (subtle background)
         const routePathLayer = new deck.PathLayer({
@@ -197,7 +202,7 @@
             getPath: d => d.coords,
             getColor: d => d.color,
             getWidth: lineWidth,
-            widthMinPixels: Math.max(1, lineWidth * 0.5),
+            widthMinPixels: Math.max(0.5, lineWidth * 0.3),
             widthMaxPixels: lineWidth * 2,
             jointRounded: true,
             capRounded: true,
@@ -210,9 +215,9 @@
             data: tripsCache,
             getPath: d => d.path,
             getTimestamps: d => d.path.map(p => p[2]),
-            getColor: d => [...d.color, 50],
-            opacity: 0.35,
-            widthMinPixels: Math.max(6, lineWidth * 4),
+            getColor: d => [...d.color, Math.floor(50 * glowScale)],
+            opacity: 0.35 * glowScale,
+            widthMinPixels: Math.max(2, lineWidth * 4) * glowScale,
             widthMaxPixels: Math.max(14, lineWidth * 9),
             jointRounded: true,
             capRounded: true,
@@ -229,7 +234,7 @@
             getTimestamps: d => d.path.map(p => p[2]),
             getColor: d => d.color,
             opacity: 0.85,
-            widthMinPixels: Math.max(1.5, lineWidth),
+            widthMinPixels: Math.max(1, lineWidth * 0.8),
             widthMaxPixels: Math.max(3, lineWidth * 2.5),
             jointRounded: true,
             capRounded: true,
@@ -245,9 +250,9 @@
             id: 'v-glow',
             data: vehicles,
             getPosition: d => d.position,
-            getFillColor: d => [...d.color, 40],
+            getFillColor: d => [...d.color, Math.floor(40 * glowScale)],
             getRadius: 60,
-            radiusMinPixels: 12,
+            radiusMinPixels: Math.floor(12 * glowScale),
             radiusMaxPixels: 35,
             radiusUnits: 'meters',
             parameters: { depthTest: false }
@@ -296,7 +301,6 @@
         // 6. Stop labels at high zoom
         const layers = [routePathLayer, glowLayer, tripsLayer, stopsLayer, vehicleGlow, vehicleLayer];
 
-        const zoom = map ? map.getZoom() : 13;
         if (zoom >= 15) {
             layers.push(new deck.TextLayer({
                 id: 'stop-labels',
