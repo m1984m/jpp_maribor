@@ -296,6 +296,47 @@ body {
 
 .timeline-controls select { padding: 4px 6px; }
 
+.line-width-control {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    margin-left: 4px;
+    padding-left: 8px;
+    border-left: 1px solid var(--border);
+}
+
+.line-width-control label {
+    color: var(--dim);
+    font-size: 0.8em;
+    cursor: default;
+}
+
+#line-width-slider {
+    width: 60px;
+    height: 3px;
+    -webkit-appearance: none;
+    appearance: none;
+    background: rgba(255,255,255,0.1);
+    border-radius: 2px;
+    outline: none;
+    cursor: pointer;
+}
+
+#line-width-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 10px; height: 10px;
+    background: var(--cyan);
+    border-radius: 50%;
+    cursor: grab;
+}
+
+#line-width-slider::-moz-range-thumb {
+    width: 10px; height: 10px;
+    background: var(--cyan);
+    border-radius: 50%;
+    border: none;
+}
+
 #time-display {
     font-size: 1.4em;
     font-weight: 700;

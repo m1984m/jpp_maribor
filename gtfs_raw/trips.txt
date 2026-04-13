@@ -1,0 +1,2068 @@
+route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,shape_id
+67,8500,101456,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101457,"Tezno - Avtobusna postaja","G1",1,6944
+67,8501,101507,"Avtobusna postaja - Tezno","G1",0,6947
+71,8500,101540,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101541,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101542,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101543,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101544,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101545,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101546,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101547,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101548,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101549,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101550,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101551,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101552,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101553,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101554,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101555,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101556,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101557,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101558,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101559,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101560,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101561,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101562,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101563,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101564,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101565,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101566,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101567,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101568,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101569,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101570,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101571,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101572,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101573,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101574,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101575,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101576,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101577,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101578,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101579,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101580,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101581,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101582,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101583,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101584,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101585,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101586,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101587,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101588,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101589,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101590,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101591,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101592,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101593,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101595,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101596,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101597,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101598,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101599,"Avtobusna postaja - Vzpenjača","G6",0,6949
+71,8500,101600,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101601,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101602,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101603,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101604,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101605,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101606,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101607,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101608,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101609,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101610,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101611,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101612,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101613,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101614,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101615,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101616,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101617,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101618,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101619,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101620,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101621,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101622,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101623,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101624,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101625,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101626,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101627,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101628,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101629,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101630,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101631,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101632,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101633,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101634,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101635,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101636,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101637,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101638,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101639,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101640,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101641,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101642,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101643,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101644,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101645,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101646,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101647,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101648,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101649,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101650,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101651,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101652,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101653,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101654,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101655,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101656,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101657,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101658,"Vzpenjača - Avtobusna postaja","G6",1,6950
+71,8500,101659,"Vzpenjača - Avtobusna postaja","G6",1,6950
+73,8500,101707,"Avtobusna postaja - Morski jarek","P7",0,6954
+73,8500,101709,"Avtobusna postaja - Morski jarek","P7",0,6954
+73,8500,101710,"Avtobusna postaja - Kamnica","P7",0,6953
+73,8500,101713,"Avtobusna postaja - Morski jarek","P7",0,6954
+73,8500,101714,"Avtobusna postaja - Kamnica","P7",0,6953
+73,8500,101715,"Avtobusna postaja - Morski jarek","P7",0,6954
+73,8500,101717,"Avtobusna postaja - Morski jarek","P7",0,6954
+73,8500,101721,"Avtobusna postaja - Morski jarek","P7",0,6954
+73,8500,101723,"Avtobusna postaja - Morski jarek","P7",0,6954
+73,8500,101726,"Avtobusna postaja - Kamnica","P7",0,6953
+73,8500,101727,"Avtobusna postaja - Morski jarek","P7",0,6954
+73,8500,101729,"Avtobusna postaja - Morski jarek","P7",0,6954
+73,8500,101730,"Avtobusna postaja - Kamnica","P7",0,6953
+73,8500,101731,"Avtobusna postaja - Morski jarek","P7",0,6954
+73,8500,101733,"Morski jarek - Avtobusna postaja","P7",1,6969
+73,8500,101737,"Morski jarek - Avtobusna postaja","P7",1,6969
+73,8500,101738,"Kamnica - Avtobusna postaja","P7",1,6970
+73,8500,101739,"Morski jarek - Avtobusna postaja","P7",1,6969
+73,8500,101740,"Kamnica - Avtobusna postaja","P7",1,6970
+73,8500,101741,"Morski jarek - Avtobusna postaja","P7",1,6969
+73,8500,101744,"Morski jarek - Avtobusna postaja","P7",1,6969
+73,8500,101745,"Kamnica - Avtobusna postaja","P7",1,6970
+73,8500,101746,"Morski jarek - Avtobusna postaja","P7",1,6969
+73,8500,101748,"Morski jarek - Avtobusna postaja","P7",1,6969
+73,8500,101750,"Morski jarek - Avtobusna postaja","P7",1,6969
+73,8500,101752,"Kamnica - Avtobusna postaja","P7",1,6970
+73,8500,101753,"Morski jarek - Avtobusna postaja","P7",1,6969
+73,8500,101754,"Kamnica - Avtobusna postaja","P7",1,6970
+73,8500,101755,"Morski jarek - Avtobusna postaja","P7",1,6969
+73,8500,101756,"Kamnica - Avtobusna postaja","P7",1,6970
+75,8503,101757,"Avtobusna postaja - Dogoše","P9",0,6956
+75,8503,101760,"Avtobusna postaja - Zrkovci","P9",0,6955
+75,8503,101761,"Avtobusna postaja - Dogoše","P9",0,6956
+75,8503,101762,"Avtobusna postaja - Zrkovci","P9",0,6955
+75,8503,101763,"Avtobusna postaja - Dogoše","P9",0,6956
+75,8503,101765,"Avtobusna postaja - Dogoše","P9",0,6956
+75,8503,101766,"Avtobusna postaja - Zrkovci","P9",0,6955
+75,8503,101767,"Avtobusna postaja - Zrkovci","P9",0,6955
+75,8503,101768,"Avtobusna postaja - Zrkovci","P9",0,6955
+75,8503,101769,"Dogoše - Avtobusna postaja","P9",1,6957
+79,8500,101818,"Avtobusna postaja - Poštni center Tezno","P13",0,6963
+79,8500,101819,"Avtobusna postaja - Stražun","P13",0,7075
+79,8500,101820,"Avtobusna postaja - Poštni center Tezno","P13",0,6963
+79,8500,101822,"Avtobusna postaja - Poštni center Tezno","P13",0,6963
+79,8500,101823,"Avtobusna postaja - Stražun","P13",0,7075
+79,8500,101824,"Avtobusna postaja - Poštni center Tezno","P13",0,6963
+79,8500,101825,"Avtobusna postaja - Stražun","P13",0,7075
+79,8500,101826,"Avtobusna postaja - Poštni center Tezno","P13",0,6963
+79,8500,101827,"Avtobusna postaja - Poštni center Tezno","P13",0,6963
+79,8500,101828,"Avtobusna postaja - Stražun","P13",0,7075
+79,8500,101829,"Avtobusna postaja - Poštni center Tezno","P13",0,6963
+79,8500,101830,"Avtobusna postaja - Stražun","P13",0,7075
+79,8500,101831,"Avtobusna postaja - Poštni center Tezno","P13",0,6963
+79,8500,101833,"Avtobusna postaja - Poštni center Tezno","P13",0,6963
+79,8500,101834,"Avtobusna postaja - Stražun","P13",0,7075
+79,8500,101835,"Avtobusna postaja - Poštni center Tezno","P13",0,6963
+79,8500,101836,"Avtobusna postaja - Stražun","P13",0,7075
+79,8500,101837,"Avtobusna postaja - Poštni center Tezno","P13",0,6963
+79,8500,101838,"Avtobusna postaja - Poštni center Tezno","P13",0,6963
+79,8500,101839,"Poštni center Tezno - Avtobusna postaja","P13",1,6964
+79,8500,101840,"Poštni center Tezno - Avtobusna postaja","P13",1,6964
+79,8500,101841,"Stražun - Avtobusna postaja","P13",1,7076
+79,8500,101842,"Poštni center Tezno - Avtobusna postaja","P13",1,6964
+79,8500,101844,"Poštni center Tezno - Avtobusna postaja","P13",1,6964
+79,8500,101845,"Stražun - Avtobusna postaja","P13",1,7076
+79,8500,101846,"Poštni center Tezno - Avtobusna postaja","P13",1,6964
+79,8500,101847,"Stražun - Avtobusna postaja","P13",1,7076
+79,8500,101848,"Poštni center Tezno - Avtobusna postaja","P13",1,6964
+79,8500,101849,"Poštni center Tezno - Avtobusna postaja","P13",1,6964
+79,8500,101850,"Stražun - Avtobusna postaja","P13",1,7076
+79,8500,101851,"Poštni center Tezno - Avtobusna postaja","P13",1,6964
+79,8500,101852,"Stražun - Avtobusna postaja","P13",1,7076
+79,8500,101853,"Poštni center Tezno - Avtobusna postaja","P13",1,6964
+79,8500,101855,"Poštni center Tezno - Avtobusna postaja","P13",1,6964
+79,8500,101856,"Stražun - Avtobusna postaja","P13",1,7076
+79,8500,101857,"Poštni center Tezno - Avtobusna postaja","P13",1,6964
+79,8500,101858,"Stražun - Avtobusna postaja","P13",1,7076
+79,8500,101859,"Poštni center Tezno - Avtobusna postaja","P13",1,6964
+79,8500,101860,"Poštni center Tezno - Avtobusna postaja","P13",1,6964
+80,8500,101862,"Limbuš - Prol. brigad - TC Merkur","P14",0,6961
+80,8500,101863,"Limbuš - Prol. brigad - TC Merkur","P14",0,6961
+80,8500,101864,"Limbuš - Prol. brigad - TC Merkur","P14",0,6961
+80,8500,101865,"Limbuš - Prol. brigad - TC Merkur","P14",0,6961
+80,8500,101866,"Limbuš - Prol. brigad - TC Merkur","P14",0,6961
+80,8500,101868,"Limbuš - Prol. brigad - TC Merkur","P14",0,6961
+80,8500,101869,"Limbuš - Prol. brigad - TC Merkur","P14",0,6961
+80,8500,101870,"Limbuš - Prol. brigad - TC Merkur","P14",0,6961
+80,8500,101871,"Limbuš - Prol. brigad - TC Merkur","P14",0,6961
+80,8500,101872,"Limbuš - Prol. brigad - TC Merkur","P14",0,6961
+80,8500,101874,"Limbuš - Prol. brigad - TC Merkur","P14",0,6961
+80,8500,101876,"Limbuš - Prol. brigad - TC Merkur","P14",0,6961
+80,8500,101877,"Limbuš - Prol. brigad - TC Merkur","P14",0,6961
+80,8500,101878,"Limbuš - Prol. brigad - TC Merkur","P14",0,6961
+80,8500,101879,"TC Merkur - Pro. brigad - Limbuš","P14",1,6962
+80,8500,101880,"TC Merkur - Pro. brigad - Limbuš","P14",1,6962
+80,8500,101881,"TC Merkur - Pro. brigad - Limbuš","P14",1,6962
+80,8500,101882,"TC Merkur - Pro. brigad - Limbuš","P14",1,6962
+80,8500,101883,"TC Merkur - Pro. brigad - Limbuš","P14",1,6962
+80,8500,101884,"TC Merkur - Pro. brigad - Limbuš","P14",1,6962
+80,8500,101886,"TC Merkur - Pro. brigad - Limbuš","P14",1,6962
+80,8500,101887,"TC Merkur - Pro. brigad - Limbuš","P14",1,6962
+80,8500,101888,"TC Merkur - Pro. brigad - Limbuš","P14",1,6962
+80,8500,101889,"TC Merkur - Pro. brigad - Limbuš","P14",1,6962
+80,8500,101892,"TC Merkur - Pro. brigad - Limbuš","P14",1,6962
+80,8500,101893,"TC Merkur - Pro. brigad - Limbuš","P14",1,6962
+80,8500,101894,"TC Merkur - Pro. brigad - Limbuš","P14",1,6962
+80,8500,101895,"TC Merkur - Pro. brigad - Limbuš","P14",1,6962
+73,8504,102032,"Avtobusna postaja - Morski jarek","P7",0,6971
+73,8504,102033,"Avtobusna postaja - Kamnica","P7",0,6972
+73,8504,102034,"Avtobusna postaja - Kamnica","P7",0,6972
+73,8504,102035,"Avtobusna postaja - Morski jarek","P7",0,6971
+73,8504,102036,"Avtobusna postaja - Kamnica","P7",0,6972
+73,8504,102037,"Avtobusna postaja - Kamnica","P7",0,6972
+73,8504,102038,"Avtobusna postaja - Morski jarek","P7",0,6971
+73,8504,102039,"Avtobusna postaja - Kamnica","P7",0,6972
+73,8504,102040,"Avtobusna postaja - Kamnica","P7",0,6972
+73,8504,102041,"Avtobusna postaja - Morski jarek","P7",0,6971
+73,8504,102043,"Morski jarek - Avtobusna postaja","P7",1,6973
+73,8504,102044,"Kamnica - Avtobusna postaja","P7",1,6974
+73,8504,102045,"Kamnica - Avtobusna postaja","P7",1,6974
+73,8504,102046,"Morski jarek - Avtobusna postaja","P7",1,6973
+73,8504,102047,"Kamnica - Avtobusna postaja","P7",1,6974
+73,8504,102048,"Kamnica - Avtobusna postaja","P7",1,6974
+73,8504,102049,"Morski jarek - Avtobusna postaja","P7",1,6973
+73,8504,102050,"Kamnica - Avtobusna postaja","P7",1,6974
+73,8504,102051,"Kamnica - Avtobusna postaja","P7",1,6974
+73,8504,102052,"Morski jarek - Avtobusna postaja","P7",1,6973
+83,8503,102067,"Šentiljska Hofer - ŽP Maribor -  E.Leclerc","P17",0,6981
+83,8503,102068,"Šentiljska Hofer - ŽP Maribor -  E.Leclerc","P17",0,6981
+83,8503,102069,"Šentiljska Hofer - ŽP Maribor -  E.Leclerc","P17",0,6981
+83,8503,102070,"Šentiljska Hofer - ŽP Maribor -  E.Leclerc","P17",0,6981
+83,8503,102071,"Šentiljska Hofer - ŽP Maribor -  E.Leclerc","P17",0,6981
+83,8503,102072,"Šentiljska Hofer - ŽP Maribor -  E.Leclerc","P17",0,6981
+83,8503,102073,"Šentiljska Hofer - ŽP Maribor -  E.Leclerc","P17",0,6981
+83,8503,102074,"Šentiljska Hofer - ŽP Maribor -  E.Leclerc","P17",0,6981
+83,8503,102075,"Šentiljska Hofer - ŽP Maribor -  E.Leclerc","P17",0,6981
+83,8503,102076,"Šentiljska Hofer - ŽP Maribor -  E.Leclerc","P17",0,6981
+83,8503,102077,"Šentiljska Hofer - ŽP Maribor -  E.Leclerc","P17",0,6981
+83,8503,102078,"Šentiljska Hofer - ŽP Maribor -  E.Leclerc","P17",0,6981
+83,8503,102079,"Šentiljska Hofer - ŽP Maribor -  E.Leclerc","P17",0,6981
+83,8503,102080,"Šentiljska Hofer - ŽP Maribor -  E.Leclerc","P17",0,6981
+83,8503,102081,"Šentiljska Hofer - ŽP Maribor -  E.Leclerc","P17",0,6981
+83,8503,102082,"Šentiljska Hofer - ŽP Maribor -  E.Leclerc","P17",0,6981
+83,8503,102083,"Šentiljska Hofer - ŽP Maribor -  E.Leclerc","P17",0,6981
+83,8503,102084,"Šentiljska Hofer - ŽP Maribor -  E.Leclerc","P17",0,6981
+83,8503,102085,"Šentiljska Hofer - ŽP Maribor -  E.Leclerc","P17",0,6981
+83,8503,102086,"Šentiljska Hofer - ŽP Maribor -  E.Leclerc","P17",0,6981
+83,8503,102088,"E.Leclerc - ŽP Maribor - Šentiljska Hofer","P17",1,6982
+83,8503,102089,"E.Leclerc - ŽP Maribor - Šentiljska Hofer","P17",1,6982
+83,8503,102090,"E.Leclerc - ŽP Maribor - Šentiljska Hofer","P17",1,6982
+83,8503,102091,"E.Leclerc - ŽP Maribor - Šentiljska Hofer","P17",1,6982
+83,8503,102092,"E.Leclerc - ŽP Maribor - Šentiljska Hofer","P17",1,6982
+83,8503,102093,"E.Leclerc - ŽP Maribor - Šentiljska Hofer","P17",1,6982
+83,8503,102094,"E.Leclerc - ŽP Maribor - Šentiljska Hofer","P17",1,6982
+83,8503,102095,"E.Leclerc - ŽP Maribor - Šentiljska Hofer","P17",1,6982
+83,8503,102096,"E.Leclerc - ŽP Maribor - Šentiljska Hofer","P17",1,6982
+83,8503,102097,"E.Leclerc - ŽP Maribor - Šentiljska Hofer","P17",1,6982
+83,8503,102098,"E.Leclerc - ŽP Maribor - Šentiljska Hofer","P17",1,6982
+83,8503,102099,"E.Leclerc - ŽP Maribor - Šentiljska Hofer","P17",1,6982
+83,8503,102100,"E.Leclerc - ŽP Maribor - Šentiljska Hofer","P17",1,6982
+83,8503,102101,"E.Leclerc - ŽP Maribor - Šentiljska Hofer","P17",1,6982
+83,8503,102102,"E.Leclerc - ŽP Maribor - Šentiljska Hofer","P17",1,6982
+83,8503,102103,"E.Leclerc - ŽP Maribor - Šentiljska Hofer","P17",1,6982
+83,8503,102104,"E.Leclerc - ŽP Maribor - Šentiljska Hofer","P17",1,6982
+83,8503,102105,"E.Leclerc - ŽP Maribor - Šentiljska Hofer","P17",1,6982
+83,8503,102106,"E.Leclerc - ŽP Maribor - Šentiljska Hofer","P17",1,6982
+83,8503,102107,"E.Leclerc - ŽP Maribor - Šentiljska Hofer","P17",1,6982
+83,8503,102108,"E.Leclerc - ŽP Maribor - Šentiljska Hofer","P17",1,6982
+83,8503,102109,"E.Leclerc - ŽP Maribor - Šentiljska Hofer","P17",1,6982
+83,8503,102110,"E.Leclerc - ŽP Maribor - Šentiljska Hofer","P17",1,6982
+83,8503,102111,"E.Leclerc - ŽP Maribor - Šentiljska Hofer","P17",1,6982
+83,8503,102112,"E.Leclerc - ŽP Maribor - Šentiljska Hofer","P17",1,6982
+84,8501,102183,"Turnerjeva - Pekre","P18",0,6989
+84,8501,102184,"Turnerjeva - Pekre","P18",0,6989
+84,8501,102185,"Turnerjeva - Pekre","P18",0,6989
+84,8501,102186,"Turnerjeva - Pekre","P18",0,6989
+84,8501,102187,"Turnerjeva - Pekre","P18",0,6989
+84,8501,102188,"Turnerjeva - Pekre","P18",0,6989
+84,8501,102189,"Turnerjeva - Pekre","P18",0,6989
+84,8501,102190,"Turnerjeva - Pekre","P18",0,6989
+84,8501,102191,"Turnerjeva - Pekre","P18",0,6989
+84,8501,102193,"Turnerjeva - Pekre","P18",0,6989
+84,8501,102195,"Turnerjeva - Pekre","P18",0,6989
+84,8501,102197,"Turnerjeva - Pekre","P18",0,6989
+84,8501,102198,"Pekre - Turnerjeva","P18",1,6990
+84,8501,102199,"Pekre - Turnerjeva","P18",1,6990
+84,8501,102200,"Pekre - Turnerjeva","P18",1,6990
+84,8501,102201,"Pekre - Turnerjeva","P18",1,6990
+84,8501,102202,"Pekre - Turnerjeva","P18",1,6990
+84,8501,102203,"Pekre - Turnerjeva","P18",1,6990
+84,8501,102204,"Pekre - Turnerjeva","P18",1,6990
+84,8501,102205,"Pekre - Turnerjeva","P18",1,6990
+84,8501,102207,"Pekre - Turnerjeva","P18",1,6990
+84,8501,102209,"Pekre - Turnerjeva","P18",1,6990
+84,8501,102211,"Pekre - Turnerjeva","P18",1,6990
+84,8501,102212,"Pekre - Turnerjeva","P18",1,6990
+81,8501,102254,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7011
+81,8501,102255,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7011
+81,8501,102256,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7011
+81,8501,102257,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7011
+81,8501,102258,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7011
+81,8501,102259,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7011
+81,8501,102260,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7011
+81,8501,102261,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7011
+81,8501,102262,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7011
+81,8501,102263,"Bresternica - Avtobusna postaja","P15",1,7012
+81,8501,102264,"Bresternica - Avtobusna postaja","P15",1,7012
+81,8501,102265,"Bresternica - Avtobusna postaja","P15",1,7012
+81,8501,102266,"Bresternica - Avtobusna postaja","P15",1,7012
+81,8501,102267,"Bresternica - Avtobusna postaja","P15",1,7012
+81,8501,102268,"Bresternica - Avtobusna postaja","P15",1,7012
+81,8501,102269,"Bresternica - Avtobusna postaja","P15",1,7012
+81,8501,102270,"Bresternica - Avtobusna postaja","P15",1,7012
+81,8501,102271,"Bresternica - Avtobusna postaja","P15",1,7012
+68,8500,102335,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+83,8502,102544,"Šentiljska Hofer - Žp Maribor - E.Leclerc","P17",0,7025
+83,8502,102545,"Šentiljska Hofer - Žp Maribor - E.Leclerc","P17",0,7025
+83,8502,102546,"Šentiljska Hofer - Žp Maribor - E.Leclerc","P17",0,7025
+83,8502,102547,"Šentiljska Hofer - Žp Maribor - E.Leclerc","P17",0,7025
+83,8502,102548,"Šentiljska Hofer - Žp Maribor - E.Leclerc","P17",0,7025
+83,8502,102549,"Šentiljska Hofer - Žp Maribor - E.Leclerc","P17",0,7025
+83,8502,102550,"Šentiljska Hofer - Žp Maribor - E.Leclerc","P17",0,7025
+83,8502,102551,"Šentiljska Hofer - Žp Maribor - E.Leclerc","P17",0,7025
+83,8502,102552,"Šentiljska Hofer - Žp Maribor - E.Leclerc","P17",0,7025
+83,8502,102553,"Šentiljska Hofer - Žp Maribor - E.Leclerc","P17",0,7025
+83,8502,102554,"Šentiljska Hofer - Žp Maribor - E.Leclerc","P17",0,7025
+83,8502,102555,"Šentiljska Hofer - Žp Maribor - E.Leclerc","P17",0,7025
+83,8502,102556,"Šentiljska Hofer - Žp Maribor - E.Leclerc","P17",0,7025
+83,8502,102558,"E.Leclerc - Žp Maribor -Šentiljska Hofer","P17",1,7026
+83,8502,102559,"E.Leclerc - Žp Maribor -Šentiljska Hofer","P17",1,7026
+83,8502,102560,"E.Leclerc - Žp Maribor -Šentiljska Hofer","P17",1,7026
+83,8502,102561,"E.Leclerc - Žp Maribor -Šentiljska Hofer","P17",1,7026
+83,8502,102562,"E.Leclerc - Žp Maribor -Šentiljska Hofer","P17",1,7026
+83,8502,102563,"E.Leclerc - Žp Maribor -Šentiljska Hofer","P17",1,7026
+83,8502,102564,"E.Leclerc - Žp Maribor -Šentiljska Hofer","P17",1,7026
+83,8502,102565,"E.Leclerc - Žp Maribor -Šentiljska Hofer","P17",1,7026
+83,8502,102566,"E.Leclerc - Žp Maribor -Šentiljska Hofer","P17",1,7026
+83,8502,102567,"E.Leclerc - Žp Maribor -Šentiljska Hofer","P17",1,7026
+83,8502,102568,"E.Leclerc - Žp Maribor -Šentiljska Hofer","P17",1,7026
+83,8502,102569,"E.Leclerc - Žp Maribor -Šentiljska Hofer","P17",1,7026
+83,8502,102570,"E.Leclerc - Žp Maribor -Šentiljska Hofer","P17",1,7026
+77,8504,102619,"Avtobusna postaja - Betnavska - Razvanje","P11",0,7036
+77,8504,102620,"Avtobusna postaja - Betnavska - Razvanje","P11",0,7036
+77,8504,102621,"Avtobusna postaja - Betnavska - Botanični vrt","P11",0,7035
+77,8504,102622,"Avtobusna postaja - Betnavska - Razvanje","P11",0,7036
+77,8504,102623,"Avtobusna postaja - Betnavska - Botanični vrt","P11",0,7035
+77,8504,102624,"Avtobusna postaja - Betnavska - Razvanje","P11",0,7036
+77,8504,102625,"Avtobusna postaja - Betnavska - Razvanje","P11",0,7036
+77,8504,102626,"Avtobusna postaja - Betnavska - Botanični vrt","P11",0,7035
+77,8504,102627,"Avtobusna postaja - Betnavska - Razvanje","P11",0,7036
+77,8504,102628,"Avtobusna postaja - Betnavska - Botanični vrt","P11",0,7035
+77,8504,102629,"Avtobusna postaja - Betnavska - Razvanje","P11",0,7036
+77,8504,102630,"Avtobusna postaja - Betnavska - Razvanje","P11",0,7036
+77,8504,102631,"Avtobusna postaja - Betnavska - Razvanje","P11",0,7036
+77,8504,102632,"Razvanje - Betnavska - Avtobusna postaja","P11",1,7038
+77,8504,102633,"Razvanje - Betnavska - Avtobusna postaja","P11",1,7038
+77,8504,102634,"Razvanje - Betnavska - Avtobusna postaja","P11",1,7038
+77,8504,102635,"Botanični vrt - Betnavska - Avtobusna postaja","P11",1,7037
+77,8504,102636,"Razvanje - Betnavska - Avtobusna postaja","P11",1,7038
+77,8504,102637,"Botanični vrt - Betnavska - Avtobusna postaja","P11",1,7037
+77,8504,102638,"Razvanje - Betnavska - Avtobusna postaja","P11",1,7038
+77,8504,102639,"Razvanje - Betnavska - Avtobusna postaja","P11",1,7038
+77,8504,102640,"Botanični vrt - Betnavska - Avtobusna postaja","P11",1,7037
+77,8504,102641,"Razvanje - Betnavska - Avtobusna postaja","P11",1,7038
+77,8504,102642,"Botanični vrt - Betnavska - Avtobusna postaja","P11",1,7037
+77,8504,102643,"Razvanje - Betnavska - Avtobusna postaja","P11",1,7038
+77,8504,102644,"Razvanje - Betnavska - Avtobusna postaja","P11",1,7038
+77,8504,102645,"Razvanje - Betnavska - Avtobusna postaja","P11",1,7038
+77,8501,102646,"Avtobusna postaja - Betnavska - Razvanje","P11",0,7040
+77,8501,102647,"Avtobusna postaja - Betnavska - Botanični vrt","P11",0,7039
+77,8501,102648,"Avtobusna postaja - Betnavska - Botanični vrt","P11",0,7039
+77,8501,102649,"Avtobusna postaja - Betnavska - Botanični vrt","P11",0,7039
+77,8501,102650,"Avtobusna postaja - Betnavska - Botanični vrt","P11",0,7039
+77,8501,102651,"Avtobusna postaja - Betnavska - Razvanje","P11",0,7040
+77,8501,102652,"Avtobusna postaja - Betnavska - Botanični vrt","P11",0,7039
+77,8501,102653,"Avtobusna postaja - Betnavska - Razvanje","P11",0,7040
+77,8501,102654,"Razvanje - Betnavska - Avtobusna postaja","P11",1,7042
+77,8501,102655,"Botanični vrt - Betnavska - Avtobusna postaja","P11",1,7041
+77,8501,102656,"Botanični vrt - Betnavska - Avtobusna postaja","P11",1,7041
+77,8501,102657,"Botanični vrt - Betnavska - Avtobusna postaja","P11",1,7041
+77,8501,102658,"Botanični vrt - Betnavska - Avtobusna postaja","P11",1,7041
+77,8501,102659,"Razvanje - Betnavska - Avtobusna postaja","P11",1,7042
+77,8501,102660,"Botanični vrt - Betnavska - Avtobusna postaja","P11",1,7041
+77,8501,102661,"Razvanje - Betnavska - Avtobusna postaja","P11",1,7042
+78,8501,102694,"Avtobusna postaja - Dobrava - Supernova","P12",0,7045
+78,8501,102695,"Avtobusna postaja - Dobrava - Supernova","P12",0,7045
+78,8501,102696,"Avtobusna postaja - Dobrava - Supernova","P12",0,7045
+78,8501,102697,"Avtobusna postaja - Dobrava - Supernova","P12",0,7045
+78,8501,102698,"Avtobusna postaja - Dobrava - Supernova","P12",0,7045
+78,8501,102699,"Avtobusna postaja - Dobrava - Supernova","P12",0,7045
+78,8501,102700,"Avtobusna postaja - Dobrava - Supernova","P12",0,7045
+78,8501,102701,"Avtobusna postaja - Dobrava - Supernova","P12",0,7045
+78,8501,102702,"Supernova - Dobrava - Avtobusna postaja","P12",1,7046
+78,8501,102703,"Supernova - Dobrava - Avtobusna postaja","P12",1,7046
+78,8501,102704,"Supernova - Dobrava - Avtobusna postaja","P12",1,7046
+78,8501,102705,"Supernova - Dobrava - Avtobusna postaja","P12",1,7046
+78,8501,102706,"Supernova - Dobrava - Avtobusna postaja","P12",1,7046
+78,8501,102707,"Supernova - Dobrava - Avtobusna postaja","P12",1,7046
+78,8501,102708,"Supernova - Dobrava - Avtobusna postaja","P12",1,7046
+78,8501,102709,"Supernova - Dobrava - Avtobusna postaja","P12",1,7046
+74,8504,102773,"Avtobusna postaja - Limbuš - Pekre","P8",0,7055
+74,8504,102774,"Avtobusna postaja - Limbuš - Pekre","P8",0,7055
+74,8504,102775,"Avtobusna postaja - Limbuš - Pekre","P8",0,7055
+74,8504,102776,"Avtobusna postaja - Limbuš - Pekre","P8",0,7055
+74,8504,102777,"Avtobusna postaja - Limbuš - Pekre","P8",0,7055
+74,8504,102778,"Avtobusna postaja - Limbuš - Pekre","P8",0,7055
+74,8504,102779,"Avtobusna postaja - Limbuš - Pekre","P8",0,7055
+74,8504,102780,"Avtobusna postaja - Limbuš - Pekre","P8",0,7055
+74,8504,102781,"Avtobusna postaja - Limbuš - Pekre","P8",0,7055
+74,8504,102782,"Avtobusna postaja - Limbuš - Pekre","P8",0,7055
+74,8504,102783,"Avtobusna postaja - Limbuš - Pekre","P8",0,7055
+74,8504,102784,"Avtobusna postaja - Limbuš - Pekre","P8",0,7055
+74,8504,102785,"Avtobusna postaja - Limbuš - Pekre","P8",0,7055
+74,8504,102786,"Avtobusna postaja - Limbuš - Pekre","P8",0,7055
+74,8504,102787,"Avtobusna postaja - Limbuš - Pekre","P8",0,7055
+74,8504,102788,"Pekre - Limbuš - Avtobusna postaja","P8",1,7056
+74,8504,102789,"Pekre - Limbuš - Avtobusna postaja","P8",1,7056
+74,8504,102790,"Pekre - Limbuš - Avtobusna postaja","P8",1,7056
+74,8504,102791,"Pekre - Limbuš - Avtobusna postaja","P8",1,7056
+74,8504,102792,"Pekre - Limbuš - Avtobusna postaja","P8",1,7056
+74,8504,102793,"Pekre - Limbuš - Avtobusna postaja","P8",1,7056
+68,8500,103563,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103564,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103565,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103566,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103567,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103568,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103569,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103570,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103571,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103572,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103573,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103574,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103575,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+75,8503,103824,"Dogoše - Avtobusna postaja","P9",1,6957
+75,8503,103825,"Dogoše - Avtobusna postaja","P9",1,6957
+75,8503,103826,"Dogoše - Avtobusna postaja","P9",1,6957
+75,8503,103827,"Dogoše - Avtobusna postaja","P9",1,6957
+75,8503,103828,"Zrkovci - Avtobusna postaja","P9",1,6958
+75,8503,103829,"Zrkovci - Avtobusna postaja","P9",1,6958
+75,8503,103831,"Zrkovci - Avtobusna postaja","P9",1,6958
+75,8503,103832,"Zrkovci - Avtobusna postaja","P9",1,6958
+75,8504,103851,"Zrkovci - Avtobusna postaja","P9",1,7120
+75,8504,103852,"Dogoše - Avtobusna postaja","P9",1,7121
+75,8504,103853,"Zrkovci - Avtobusna postaja","P9",1,7120
+75,8504,103858,"Avtobusna postaja - Zrkovci","P9",0,7118
+75,8504,103859,"Avtobusna postaja - Dogoše","P9",0,7119
+75,8504,103860,"Avtobusna postaja - Zrkovci","P9",0,7118
+75,8504,103861,"Avtobusna postaja - Zrkovci","P9",0,7118
+75,8504,103862,"Avtobusna postaja - Zrkovci","P9",0,7118
+75,8504,103863,"Avtobusna postaja - Zrkovci","P9",0,7118
+75,8504,103864,"Avtobusna postaja - Dogoše","P9",0,7119
+75,8504,103865,"Avtobusna postaja - Dogoše","P9",0,7119
+75,8504,103866,"Avtobusna postaja - Dogoše","P9",0,7119
+75,8504,103867,"Dogoše - Avtobusna postaja","P9",1,7121
+75,8504,103868,"Dogoše - Avtobusna postaja","P9",1,7121
+75,8504,103869,"Dogoše - Avtobusna postaja","P9",1,7121
+75,8504,103870,"Zrkovci - Avtobusna postaja","P9",1,7120
+75,8504,103871,"Zrkovci - Avtobusna postaja","P9",1,7120
+75,8504,103872,"Zrkovci - Avtobusna postaja","P9",1,7120
+67,8501,104048,"Avtobusna postaja - Tezno","G1",0,6947
+67,8501,104049,"Avtobusna postaja - Tezno","G1",0,6947
+67,8501,104050,"Avtobusna postaja - Tezno","G1",0,6947
+67,8501,104051,"Avtobusna postaja - Tezno","G1",0,6947
+67,8501,104052,"Avtobusna postaja - Tezno","G1",0,6947
+67,8501,104053,"Avtobusna postaja - Tezno","G1",0,6947
+67,8501,104054,"Avtobusna postaja - Tezno","G1",0,6947
+67,8501,104055,"Avtobusna postaja - Tezno","G1",0,6947
+67,8501,104056,"Avtobusna postaja - Tezno","G1",0,6947
+67,8501,104057,"Avtobusna postaja - Tezno","G1",0,6947
+67,8501,104058,"Avtobusna postaja - Tezno","G1",0,6947
+67,8501,104059,"Avtobusna postaja - Tezno","G1",0,6947
+67,8501,104060,"Avtobusna postaja - Tezno","G1",0,6947
+67,8501,104061,"Avtobusna postaja - Tezno","G1",0,6947
+67,8501,104062,"Avtobusna postaja - Tezno","G1",0,6947
+67,8501,104063,"Avtobusna postaja - Tezno","G1",0,6947
+67,8501,104064,"Tezno - Avtobusna postaja","G1",1,6948
+67,8501,104065,"Tezno - Avtobusna postaja","G1",1,6948
+67,8501,104066,"Tezno - Avtobusna postaja","G1",1,6948
+67,8501,104067,"Tezno - Avtobusna postaja","G1",1,6948
+67,8501,104068,"Tezno - Avtobusna postaja","G1",1,6948
+67,8501,104069,"Tezno - Avtobusna postaja","G1",1,6948
+67,8501,104070,"Tezno - Avtobusna postaja","G1",1,6948
+67,8501,104071,"Tezno - Avtobusna postaja","G1",1,6948
+67,8501,104072,"Tezno - Avtobusna postaja","G1",1,6948
+67,8501,104073,"Tezno - Avtobusna postaja","G1",1,6948
+67,8501,104074,"Tezno - Avtobusna postaja","G1",1,6948
+67,8501,104075,"Tezno - Avtobusna postaja","G1",1,6948
+67,8501,104076,"Tezno - Avtobusna postaja","G1",1,6948
+67,8501,104077,"Tezno - Avtobusna postaja","G1",1,6948
+67,8501,104078,"Tezno - Avtobusna postaja","G1",1,6948
+68,8500,104092,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104093,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104094,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104095,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104096,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104097,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104098,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104099,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104100,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104101,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104102,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104103,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104104,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104105,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104106,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104107,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104108,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104109,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104110,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104111,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104112,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104113,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104114,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104115,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104116,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104117,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104118,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104119,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104120,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104121,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104122,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104123,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104124,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104125,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104126,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104127,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104128,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104129,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104130,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104131,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104132,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104133,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104134,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104135,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104136,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104137,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104138,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104139,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104140,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104141,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104142,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,104143,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8501,104144,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7079
+68,8501,104145,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7079
+68,8501,104146,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7079
+68,8501,104147,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7079
+68,8501,104148,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7079
+68,8501,104149,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7079
+68,8501,104150,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7079
+68,8501,104151,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7079
+68,8501,104152,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7079
+68,8501,104153,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7079
+68,8501,104154,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7079
+68,8501,104155,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7079
+68,8501,104156,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7079
+68,8501,104157,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7079
+68,8501,104158,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7079
+68,8501,104159,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7080
+68,8501,104160,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7080
+68,8501,104161,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7080
+68,8501,104162,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7080
+68,8501,104163,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7080
+68,8501,104164,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7080
+68,8501,104165,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7080
+68,8501,104166,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7080
+68,8501,104167,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7080
+68,8504,104175,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7099
+68,8504,104176,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7099
+68,8504,104177,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7099
+68,8504,104179,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7099
+68,8504,104180,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7099
+68,8504,104181,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7099
+68,8504,104182,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7099
+68,8504,104183,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7099
+68,8504,104184,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7099
+68,8504,104185,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7099
+68,8504,104186,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7099
+68,8504,104187,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7099
+68,8504,104188,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7099
+68,8504,104189,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7099
+68,8504,104190,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7099
+68,8504,104191,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7099
+68,8504,104192,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7099
+68,8504,104193,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7099
+68,8504,104194,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7099
+68,8504,104195,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7099
+68,8504,104196,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7099
+68,8504,104197,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7099
+68,8504,104198,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7100
+68,8504,104199,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7100
+68,8504,104200,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7100
+68,8504,104201,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7100
+68,8504,104202,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7100
+68,8504,104203,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7100
+68,8504,104204,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7100
+68,8504,104205,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7100
+68,8504,104206,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7100
+68,8504,104207,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7100
+68,8504,104208,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7100
+68,8504,104209,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7100
+68,8504,104210,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7100
+68,8504,104211,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7100
+68,8504,104212,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7100
+68,8504,104213,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7100
+68,8504,104214,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7100
+68,8504,104215,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7100
+68,8504,104216,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7100
+68,8504,104217,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7100
+68,8504,104218,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7100
+68,8504,104219,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7100
+68,8504,104220,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7100
+68,8504,104221,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7100
+68,8504,104222,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7100
+68,8504,104223,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7100
+68,8501,104224,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7080
+68,8501,104225,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7080
+68,8501,104226,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7080
+68,8501,104227,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7080
+68,8501,104228,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7080
+68,8501,104229,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7080
+68,8501,104230,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7080
+78,8504,104233,"Avtobusna postaja - Dobrava - Supernova","P12",0,7122
+78,8504,104234,"Avtobusna postaja - Dobrava - Supernova","P12",0,7122
+78,8504,104235,"Avtobusna postaja - Dobrava - Supernova","P12",0,7122
+78,8504,104236,"Avtobusna postaja - Dobrava - Supernova","P12",0,7122
+78,8504,104237,"Avtobusna postaja - Dobrava - Supernova","P12",0,7122
+78,8504,104238,"Avtobusna postaja - Dobrava - Supernova","P12",0,7122
+78,8504,104239,"Avtobusna postaja - Dobrava - Supernova","P12",0,7122
+78,8504,104240,"Avtobusna postaja - Dobrava - Supernova","P12",0,7122
+78,8504,104241,"Supenova - Dobrava - Avtobusna postaja","P12",1,7123
+78,8504,104242,"Supenova - Dobrava - Avtobusna postaja","P12",1,7123
+78,8504,104243,"Supenova - Dobrava - Avtobusna postaja","P12",1,7123
+78,8504,104244,"Supenova - Dobrava - Avtobusna postaja","P12",1,7123
+78,8504,104245,"Supenova - Dobrava - Avtobusna postaja","P12",1,7123
+78,8504,104246,"Supenova - Dobrava - Avtobusna postaja","P12",1,7123
+78,8504,104247,"Supenova - Dobrava - Avtobusna postaja","P12",1,7123
+78,8504,104248,"Supenova - Dobrava - Avtobusna postaja","P12",1,7123
+78,8504,104249,"Avtobusna postaja - Dobrava - Supernova","P12",0,7122
+78,8504,104250,"Avtobusna postaja - Dobrava - Supernova","P12",0,7122
+78,8504,104251,"Avtobusna postaja - Dobrava - Supernova","P12",0,7122
+78,8504,104252,"Avtobusna postaja - Dobrava - Supernova","P12",0,7122
+78,8504,104253,"Avtobusna postaja - Dobrava - Supernova","P12",0,7122
+78,8504,104254,"Supenova - Dobrava - Avtobusna postaja","P12",1,7123
+78,8504,104255,"Supenova - Dobrava - Avtobusna postaja","P12",1,7123
+78,8504,104256,"Supenova - Dobrava - Avtobusna postaja","P12",1,7123
+78,8504,104257,"Supenova - Dobrava - Avtobusna postaja","P12",1,7123
+79,8504,104258,"Avtobusna postaja - Stražun","P13",0,7081
+79,8504,104259,"Stražun - Avtobusna postaja","P13",1,7082
+84,8501,104290,"Pekre - Turnerjeva","P18",1,6990
+84,8504,104291,"Turnerjeva - Pekre","P18",0,7128
+84,8504,104292,"Turnerjeva - Pekre","P18",0,7128
+84,8504,104293,"Turnerjeva - Pekre","P18",0,7128
+84,8504,104294,"Turnerjeva - Pekre","P18",0,7128
+84,8504,104295,"Turnerjeva - Pekre","P18",0,7128
+84,8504,104296,"Turnerjeva - Pekre","P18",0,7128
+84,8504,104297,"Turnerjeva - Pekre","P18",0,7128
+84,8504,104298,"Turnerjeva - Pekre","P18",0,7128
+84,8504,104299,"Turnerjeva - Pekre","P18",0,7128
+84,8504,104303,"Pekre - Turnerjeva","P18",1,7129
+84,8504,104304,"Pekre - Turnerjeva","P18",1,7129
+84,8504,104305,"Pekre - Turnerjeva","P18",1,7129
+84,8504,104306,"Pekre - Turnerjeva","P18",1,7129
+84,8504,104307,"Pekre - Turnerjeva","P18",1,7129
+84,8504,104308,"Pekre - Turnerjeva","P18",1,7129
+84,8504,104309,"Pekre - Turnerjeva","P18",1,7129
+84,8504,104310,"Pekre - Turnerjeva","P18",1,7129
+84,8504,104311,"Pekre - Turnerjeva","P18",1,7129
+84,8504,104312,"Pekre - Turnerjeva","P18",1,7129
+75,8503,104358,"Zrkovci - Avtobusna postaja","P9",1,6958
+73,8500,104359,"Avtobusna postaja - Kamnica","P7",0,6953
+79,8504,104363,"Avtobusna postaja - Stražun","P13",0,7081
+79,8504,104364,"Avtobusna postaja - Stražun","P13",0,7081
+79,8504,104365,"Avtobusna postaja - Stražun","P13",0,7081
+79,8504,104366,"Avtobusna postaja - Stražun","P13",0,7081
+79,8504,104367,"Stražun - Avtobusna postaja","P13",1,7082
+79,8504,104368,"Stražun - Avtobusna postaja","P13",1,7082
+79,8504,104369,"Stražun - Avtobusna postaja","P13",1,7082
+79,8504,104370,"Stražun - Avtobusna postaja","P13",1,7082
+80,8504,104371,"Limbuš - Supernova - Merkur","P14",0,7061
+80,8504,104372,"Limbuš - Supernova - Merkur","P14",0,7061
+80,8504,104373,"Limbuš - Supernova - Merkur","P14",0,7061
+80,8504,104374,"Limbuš - Supernova - Merkur","P14",0,7061
+80,8504,104375,"Limbuš - Supernova - Merkur","P14",0,7061
+80,8504,104376,"Limbuš - Supernova - Merkur","P14",0,7061
+80,8504,104377,"Limbuš - Supernova - Merkur","P14",0,7061
+80,8504,104378,"Limbuš - Supernova - Merkur","P14",0,7061
+80,8504,104379,"Limbuš - Supernova - Merkur","P14",0,7061
+80,8504,104380,"Limbuš - Supernova - Merkur","P14",0,7061
+80,8504,104381,"Limbuš - Supernova - Merkur","P14",0,7061
+80,8504,104382,"Merkur - Supernova - Limbuš","P14",1,7062
+80,8504,104383,"Merkur - Supernova - Limbuš","P14",1,7062
+80,8504,104384,"Merkur - Supernova - Limbuš","P14",1,7062
+80,8504,104385,"Merkur - Supernova - Limbuš","P14",1,7062
+80,8504,104386,"Merkur - Supernova - Limbuš","P14",1,7062
+80,8504,104387,"Merkur - Supernova - Limbuš","P14",1,7062
+80,8504,104388,"Merkur - Supernova - Limbuš","P14",1,7062
+80,8504,104389,"Merkur - Supernova - Limbuš","P14",1,7062
+80,8504,104390,"Merkur - Supernova - Limbuš","P14",1,7062
+80,8504,104391,"Merkur - Supernova - Limbuš","P14",1,7062
+73,8500,104392,"Avtobusna postaja - Morski jarek","P7",0,6954
+73,8500,104393,"Avtobusna postaja - Kamnica","P7",0,6953
+73,8500,104394,"Avtobusna postaja - Kamnica","P7",0,6953
+73,8500,104395,"Avtobusna postaja - Kamnica","P7",0,6953
+73,8500,104396,"Kamnica - Avtobusna postaja","P7",1,6970
+73,8500,104397,"Kamnica - Avtobusna postaja","P7",1,6970
+73,8504,104398,"Avtobusna postaja - Kamnica","P7",0,6972
+73,8504,104399,"Kamnica - Avtobusna postaja","P7",1,6974
+73,8504,104400,"Avtobusna postaja - Morski jarek","P7",0,6971
+73,8504,104401,"Morski jarek - Avtobusna postaja","P7",1,6973
+73,8501,104402,"Avtobusna postaja - Morski jarek","P7",0,7135
+73,8501,104403,"Avtobusna postaja - Kamnica","P7",0,7136
+73,8501,104404,"Avtobusna postaja - Kamnica","P7",0,7136
+73,8501,104405,"Avtobusna postaja - Morski jarek","P7",0,7135
+73,8501,104406,"Avtobusna postaja - Kamnica","P7",0,7136
+82,8501,112148,"Avtobusna postaja - Dupleška kanal","P16",0,7435
+82,8501,112149,"Avtobusna postaja - Ul. Veljka Vlahovića - Zg. Duplek","P16",0,7436
+82,8501,112150,"Avtobusna postaja - Dupleška kanal","P16",0,7435
+82,8501,112151,"Avtobusna postaja - Dupleška kanal","P16",0,7435
+82,8501,112152,"Avtobusna postaja - Ul. Veljka Vlahovića - Zg. Duplek","P16",0,7436
+82,8501,112153,"Avtobusna postaja - Dupleška kanal","P16",0,7435
+82,8501,112154,"Avtobusna postaja - Dupleška kanal","P16",0,7435
+82,8501,112155,"Avtobusna postaja - Ul. Veljka Vlahovića - Zg. Duplek","P16",0,7436
+82,8501,112156,"Avtobusna postaja - Dupleška kanal","P16",0,7435
+82,8501,112157,"Avtobusna postaja - Ul. Veljka Vlahovića - Zg. Duplek","P16",0,7436
+82,8501,112158,"Zg. Duplek  - Ul. Veljka Vlahovića - Avtobusna postaja","P16",1,7438
+82,8501,112159,"Zg. Duplek  - Ul. Veljka Vlahovića - Avtobusna postaja","P16",1,7438
+82,8501,112160,"Dupleška kanal -  Avtobusna postaja","P16",1,7437
+82,8501,112161,"Dupleška kanal -  Avtobusna postaja","P16",1,7437
+82,8501,112162,"Zg. Duplek  - Ul. Veljka Vlahovića - Avtobusna postaja","P16",1,7438
+82,8501,112163,"Dupleška kanal -  Avtobusna postaja","P16",1,7437
+82,8501,112164,"Dupleška kanal -  Avtobusna postaja","P16",1,7437
+82,8501,112165,"Zg. Duplek  - Ul. Veljka Vlahovića - Avtobusna postaja","P16",1,7438
+82,8501,112166,"Dupleška kanal -  Avtobusna postaja","P16",1,7437
+82,8501,112167,"Dupleška kanal -  Avtobusna postaja","P16",1,7437
+82,8501,112168,"Zg. Duplek  - Ul. Veljka Vlahovića - Avtobusna postaja","P16",1,7438
+82,8501,112169,"Dupleška kanal -  Avtobusna postaja","P16",1,7437
+82,8501,112170,"Dupleška kanal -  Avtobusna postaja","P16",1,7437
+82,8501,112171,"Zg. Duplek  - Ul. Veljka Vlahovića - Avtobusna postaja","P16",1,7438
+82,8501,112172,"Dupleška kanal -  Avtobusna postaja","P16",1,7437
+69,8501,112173,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7439
+69,8501,112189,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7440
+69,8504,112205,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7441
+69,8504,112229,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7442
+85,8504,112251,"Avtobusna postaja - Dom pod gorco - Supernova","P19",0,7443
+85,8504,112252,"Avtobusna postaja - Dom pod gorco - Supernova","P19",0,7443
+85,8504,112253,"Avtobusna postaja - Dom pod gorco - Supernova","P19",0,7443
+85,8504,112254,"Avtobusna postaja - Dom pod gorco - Supernova","P19",0,7443
+85,8504,112255,"Avtobusna postaja - Dom pod gorco - Supernova","P19",0,7443
+85,8504,112256,"Avtobusna postaja - Dom pod gorco - Supernova","P19",0,7443
+85,8504,112257,"Avtobusna postaja - Dom pod gorco - Supernova","P19",0,7443
+85,8504,112258,"Avtobusna postaja - Dom pod gorco - Supernova","P19",0,7443
+85,8504,112259,"Avtobusna postaja - Dom pod gorco - Supernova","P19",0,7443
+85,8504,112260,"Avtobusna postaja - Dom pod gorco - Supernova","P19",0,7443
+85,8504,112261,"Supernova - Dom pod gorco - Avtobusna postaja","P19",1,7444
+85,8504,112262,"Supernova - Dom pod gorco - Avtobusna postaja","P19",1,7444
+85,8504,112263,"Supernova - Dom pod gorco - Avtobusna postaja","P19",1,7444
+85,8504,112264,"Supernova - Dom pod gorco - Avtobusna postaja","P19",1,7444
+85,8504,112265,"Supernova - Dom pod gorco - Avtobusna postaja","P19",1,7444
+85,8504,112266,"Supernova - Dom pod gorco - Avtobusna postaja","P19",1,7444
+85,8504,112267,"Supernova - Dom pod gorco - Avtobusna postaja","P19",1,7444
+85,8504,112268,"Supernova - Dom pod gorco - Avtobusna postaja","P19",1,7444
+85,8504,112269,"Supernova - Dom pod gorco - Avtobusna postaja","P19",1,7444
+85,8504,112270,"Supernova - Dom pod gorco - Avtobusna postaja","P19",1,7444
+70,8501,112271,"Avtobusna postaja - Pekre - Limbuš","G4",0,7447
+70,8501,112272,"Avtobusna postaja - Pekre - Limbuš","G4",0,7447
+70,8501,112273,"Avtobusna postaja - Lesarska šola - Pekre - Limbuš","G4",0,7445
+70,8501,112274,"Avtobusna postaja - Pekre - Limbuš","G4",0,7447
+70,8501,112275,"Avtobusna postaja - Pekre - Limbuš","G4",0,7447
+70,8501,112276,"Avtobusna postaja - Lesarska šola - Pekre - Limbuš","G4",0,7445
+70,8501,112277,"Avtobusna postaja - Pekre - Limbuš","G4",0,7447
+70,8501,112278,"Avtobusna postaja - Pekre - Limbuš","G4",0,7447
+70,8501,112279,"Avtobusna postaja - Lesarska šola - Pekre - Limbuš","G4",0,7445
+70,8501,112280,"Avtobusna postaja - Pekre - Limbuš","G4",0,7447
+70,8501,112281,"Avtobusna postaja - Lesarska šola - Pekre - Limbuš","G4",0,7445
+70,8501,112282,"Limbuš - Pekre - Avtobusna postaja","G4",1,7448
+70,8501,112285,"Limbuš - Pekre - Avtobusna postaja","G4",1,7448
+70,8501,112286,"Limbuš - Pekre - Avtobusna postaja","G4",1,7448
+70,8501,112289,"Limbuš - Pekre - Avtobusna postaja","G4",1,7448
+70,8501,112291,"Limbuš - Pekre - Avtobusna postaja","G4",1,7448
+70,8504,112293,"Avtobusna postaja - Poljane - Lesarska šola","G4",0,7449
+70,8504,112294,"Avtobusna postaja - Poljane - Pekre - Limbuš","G4",0,7451
+70,8504,112295,"Avtobusna postaja - Poljane - Pekre - Limbuš","G4",0,7451
+70,8504,112296,"Avtobusna postaja - Poljane - Lesarska šola","G4",0,7449
+70,8504,112297,"Avtobusna postaja - Poljane - Pekre - Limbuš","G4",0,7451
+70,8504,112298,"Avtobusna postaja - Poljane - Pekre - Limbuš","G4",0,7451
+70,8504,112299,"Avtobusna postaja - Poljane - Lesarska šola","G4",0,7449
+70,8504,112300,"Avtobusna postaja - Poljane - Pekre - Limbuš","G4",0,7451
+70,8504,112301,"Avtobusna postaja - Poljane - Pekre - Limbuš","G4",0,7451
+70,8504,112302,"Avtobusna postaja - Poljane - Lesarska šola","G4",0,7449
+70,8504,112303,"Avtobusna postaja - Poljane - Pekre - Limbuš","G4",0,7451
+70,8504,112304,"Avtobusna postaja - Poljane - Pekre - Limbuš","G4",0,7451
+70,8504,112305,"Avtobusna postaja - Poljane - Lesarska šola","G4",0,7449
+70,8504,112306,"Avtobusna postaja - Poljane - Pekre - Limbuš","G4",0,7451
+70,8504,112307,"Avtobusna postaja - Poljane - Pekre - Limbuš","G4",0,7451
+70,8504,112308,"Avtobusna postaja - Poljane - Lesarska šola","G4",0,7449
+70,8504,112309,"Avtobusna postaja - Poljane - Pekre - Limbuš","G4",0,7451
+70,8504,112310,"Avtobusna postaja - Poljane - Pekre - Limbuš","G4",0,7451
+70,8504,112311,"Avtobusna postaja - Poljane - Lesarska šola","G4",0,7449
+70,8504,112312,"Avtobusna postaja - Poljane - Pekre - Limbuš","G4",0,7451
+70,8504,112313,"Avtobusna postaja - Poljane - Pekre - Limbuš","G4",0,7451
+70,8504,112314,"Avtobusna postaja - Poljane - Lesarska šola","G4",0,7449
+70,8504,112315,"Avtobusna postaja - Poljane - Pekre - Limbuš","G4",0,7451
+70,8504,112316,"Avtobusna postaja - Poljane - Pekre - Limbuš","G4",0,7451
+70,8504,112317,"Avtobusna postaja - Poljane - Lesarska šola","G4",0,7449
+70,8504,112318,"Limbuš Lesarska šola - Avtobusna postaja","G4",1,7450
+70,8504,112319,"Limbuš - Pekre - Poljane - Avtobusna postaja","G4",1,7452
+70,8504,112320,"Limbuš - Pekre - Poljane - Avtobusna postaja","G4",1,7452
+69,8501,112342,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7439
+69,8501,112343,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7439
+69,8501,112344,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7439
+69,8501,112345,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7439
+69,8501,112346,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7439
+69,8501,112347,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7439
+69,8501,112348,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7439
+69,8501,112349,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7439
+69,8501,112350,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7439
+69,8501,112351,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7439
+69,8501,112352,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7439
+69,8501,112353,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7439
+69,8501,112354,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7439
+69,8501,112355,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7439
+69,8501,112356,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7439
+69,8501,112357,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7440
+69,8501,112358,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7440
+69,8501,112359,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7440
+69,8501,112360,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7440
+69,8501,112361,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7440
+69,8501,112362,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7440
+69,8501,112363,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7440
+69,8501,112364,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7440
+69,8501,112365,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7440
+69,8501,112366,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7440
+69,8501,112367,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7440
+69,8501,112368,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7440
+69,8501,112369,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7440
+69,8501,112370,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7440
+69,8501,112371,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7440
+69,8504,112372,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7441
+69,8504,112378,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7441
+69,8504,112384,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7441
+69,8504,112395,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7442
+69,8504,112396,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7442
+69,8504,112398,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7442
+69,8504,112405,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7442
+69,8504,112406,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7442
+69,8504,112407,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7442
+69,8504,112408,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7442
+75,8503,112416,"Avtobusna postaja - Zrkovci","P9",0,6955
+75,8503,112417,"Zrkovci - Avtobusna postaja","P9",1,6958
+70,8501,112420,"Limbuš - Pekre - Avtobusna postaja","G4",1,7448
+70,8501,112421,"Limbuš - Pekre - Avtobusna postaja","G4",1,7448
+70,8501,112422,"Limbuš - Pekre - Avtobusna postaja","G4",1,7448
+70,8501,112423,"Limbuš - Pekre - Avtobusna postaja","G4",1,7448
+70,8501,112424,"Limbuš - Pekre - Lesarska šola - Avtobusna postaja","G4",1,7446
+70,8501,112425,"Limbuš - Pekre - Lesarska šola - Avtobusna postaja","G4",1,7446
+70,8504,112426,"Limbuš Lesarska šola - Avtobusna postaja","G4",1,7450
+70,8504,112427,"Limbuš - Pekre - Poljane - Avtobusna postaja","G4",1,7452
+70,8504,112428,"Limbuš - Pekre - Poljane - Avtobusna postaja","G4",1,7452
+70,8504,112429,"Limbuš - Pekre - Poljane - Avtobusna postaja","G4",1,7452
+73,8501,104407,"Avtobusna postaja - Kamnica","P7",0,7136
+73,8501,104408,"Avtobusna postaja - Morski jarek","P7",0,7135
+73,8501,104409,"Avtobusna postaja - Kamnica","P7",0,7136
+73,8501,104410,"Avtobusna postaja - Kamnica","P7",0,7136
+73,8501,104411,"Avtobusna postaja - Morski jarek","P7",0,7135
+73,8501,104412,"Avtobusna postaja - Kamnica","P7",0,7136
+73,8501,104413,"Avtobusna postaja - Morski jarek","P7",0,7135
+73,8501,104414,"Morski jarek - Avtobusna postaja","P7",1,7137
+73,8501,104415,"Kamnica - Avtobusna postaja","P7",1,7138
+73,8501,104416,"Kamnica - Avtobusna postaja","P7",1,7138
+73,8501,104417,"Morski jarek - Avtobusna postaja","P7",1,7137
+73,8501,104418,"Kamnica - Avtobusna postaja","P7",1,7138
+73,8501,104419,"Kamnica - Avtobusna postaja","P7",1,7138
+73,8501,104420,"Morski jarek - Avtobusna postaja","P7",1,7137
+73,8501,104421,"Kamnica - Avtobusna postaja","P7",1,7138
+73,8501,104422,"Kamnica - Avtobusna postaja","P7",1,7138
+73,8501,104423,"Morski jarek - Avtobusna postaja","P7",1,7137
+73,8501,104424,"Kamnica - Avtobusna postaja","P7",1,7138
+73,8501,104425,"Morski jarek - Avtobusna postaja","P7",1,7137
+84,8504,104426,"Turnerjeva - Pekre","P18",0,7128
+84,8504,104430,"Pekre - Turnerjeva","P18",1,7129
+84,8504,104431,"Pekre - Turnerjeva","P18",1,7129
+84,8504,104432,"Pekre - Turnerjeva","P18",1,7129
+84,8504,104433,"Turnerjeva - Pekre","P18",0,7128
+84,8504,104434,"Turnerjeva - Pekre","P18",0,7128
+84,8504,104435,"Turnerjeva - Pekre","P18",0,7128
+84,8504,104436,"Turnerjeva - Pekre","P18",0,7128
+81,8504,104437,"Bresternica - Avtobusna postaja","P15",1,7070
+81,8504,104438,"Bresternica - Avtobusna postaja","P15",1,7070
+81,8504,104439,"Bresternica - Avtobusna postaja","P15",1,7070
+81,8504,104440,"Bresternica - Avtobusna postaja","P15",1,7070
+81,8504,104441,"Bresternica - Avtobusna postaja","P15",1,7070
+81,8504,104442,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7069
+81,8504,104443,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7069
+81,8504,104444,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7069
+81,8504,104445,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7069
+81,8504,104446,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7069
+81,8504,104447,"Bresternica - Avtobusna postaja","P15",1,7070
+81,8504,104448,"Bresternica - Avtobusna postaja","P15",1,7070
+81,8504,104449,"Bresternica - Avtobusna postaja","P15",1,7070
+80,8500,104475,"Limbuš - Prol. brigad - TC Merkur","P14",0,6961
+83,8503,104478,"Šentiljska Hofer - ŽP Maribor -  E.Leclerc","P17",0,6981
+83,8503,104479,"Šentiljska Hofer - ŽP Maribor -  E.Leclerc","P17",0,6981
+83,8503,104480,"Šentiljska Hofer - ŽP Maribor -  E.Leclerc","P17",0,6981
+83,8503,104481,"Šentiljska Hofer - ŽP Maribor -  E.Leclerc","P17",0,6981
+80,8500,104482,"TC Merkur - Pro. brigad - Limbuš","P14",1,6962
+81,8500,104584,"Bresternica - Avtobusna postaja","P15",1,7164
+81,8500,104585,"Bresternica - Avtobusna postaja","P15",1,7164
+81,8500,104586,"Bresternica - Avtobusna postaja","P15",1,7164
+81,8500,104587,"Bresternica - Avtobusna postaja","P15",1,7164
+81,8500,104588,"Bresternica - Avtobusna postaja","P15",1,7164
+81,8500,104589,"Bresternica - Avtobusna postaja","P15",1,7164
+81,8500,104590,"Bresternica - Avtobusna postaja","P15",1,7164
+81,8500,104591,"Bresternica - Avtobusna postaja","P15",1,7164
+81,8500,104592,"Bresternica - Avtobusna postaja","P15",1,7164
+81,8500,104593,"Bresternica - Avtobusna postaja","P15",1,7164
+81,8500,104594,"Bresternica - Avtobusna postaja","P15",1,7164
+81,8500,104595,"Bresternica - Avtobusna postaja","P15",1,7164
+81,8500,104596,"Bresternica - Avtobusna postaja","P15",1,7164
+81,8500,104597,"Bresternica - Avtobusna postaja","P15",1,7164
+81,8500,104598,"Bresternica - Avtobusna postaja","P15",1,7164
+81,8500,104599,"Bresternica - Avtobusna postaja","P15",1,7164
+81,8500,104600,"Bresternica - Avtobusna postaja","P15",1,7164
+81,8500,104601,"Bresternica - Avtobusna postaja","P15",1,7164
+81,8500,104602,"Bresternica - Avtobusna postaja","P15",1,7164
+81,8500,104603,"Bresternica - Avtobusna postaja","P15",1,7164
+81,8500,104604,"Bresternica - Avtobusna postaja","P15",1,7164
+81,8500,104605,"Bresternica - Avtobusna postaja","P15",1,7164
+81,8500,104606,"Bresternica - Avtobusna postaja","P15",1,7164
+81,8500,104607,"Bresternica - Avtobusna postaja","P15",1,7164
+81,8500,104608,"Bresternica - Avtobusna postaja","P15",1,7164
+81,8500,104609,"Bresternica - Avtobusna postaja","P15",1,7164
+81,8500,104610,"Bresternica - Avtobusna postaja","P15",1,7164
+81,8500,104611,"Bresternica - Avtobusna postaja","P15",1,7164
+81,8500,104612,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7163
+81,8500,104613,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7163
+81,8500,104614,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7163
+81,8500,104615,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7163
+81,8500,104616,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7163
+81,8500,104617,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7163
+81,8500,104618,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7163
+81,8500,104619,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7163
+81,8500,104620,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7163
+81,8500,104621,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7163
+81,8500,104622,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7163
+81,8500,104623,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7163
+81,8500,104624,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7163
+81,8500,104625,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7163
+81,8500,104626,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7163
+81,8500,104627,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7163
+81,8500,104628,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7163
+81,8500,104629,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7163
+81,8500,104630,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7163
+81,8500,104631,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7163
+81,8500,104632,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7163
+81,8500,104633,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7163
+81,8500,104634,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7163
+81,8500,104635,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7163
+81,8500,104636,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7163
+81,8500,104637,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7163
+81,8500,104638,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7163
+81,8500,104639,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7163
+73,8500,104651,"Avtobusna postaja - Rošpoh","P7",0,7156
+73,8500,104652,"Rošpoh - Avtobusna postaja","P7",1,7157
+75,8503,104868,"Avtobusna postaja - Dogoše","P9",0,6956
+73,8500,104887,"Avtobusna postaja - Morski jarek","P7",0,6954
+73,8500,104888,"Morski jarek - Avtobusna postaja","P7",1,6969
+73,8500,104889,"Avtobusna postaja - Morski jarek","P7",0,6954
+73,8500,104890,"Morski jarek - Avtobusna postaja","P7",1,6969
+76,8503,104977,"Grušova - Melje - Mlinska AP","P10",1,7197
+76,8503,104979,"Grušova - Melje - Mlinska AP","P10",1,7197
+76,8503,104981,"Grušova - Melje - Mlinska AP","P10",1,7197
+76,8503,104983,"Grušova - Melje - Mlinska AP","P10",1,7197
+76,8503,104984,"Grušova - Melje - Mlinska AP","P10",1,7197
+76,8503,104985,"Grušova - Melje - Mlinska AP","P10",1,7197
+76,8503,105063,"Mlinska AP - Trčova Griček - Grušova","P10",0,7193
+76,8503,105064,"Mlinska AP - Trčova Griček - Grušova","P10",0,7193
+76,8503,105066,"Mlinska AP - Mal. odc. Trčova - Grušova","P10",0,7194
+76,8503,105068,"Mlinska AP - Metava - Grušova","P10",0,7192
+76,8503,105069,"Mlinska AP - Trčova Griček - Grušova","P10",0,7193
+76,8503,105070,"Mlinska AP - Metava - Grušova","P10",0,7192
+76,8503,105072,"Mlinska AP - Trčova Griček - Grušova","P10",0,7193
+76,8503,105076,"Grušova - Melje - Mlinska AP","P10",1,7197
+76,8501,105141,"Grušova - Melje - Avtobusna postaja","P10",1,7211
+76,8501,105142,"Grušova - Melje - Avtobusna postaja","P10",1,7211
+76,8501,105146,"Avtobusna postaja - Trčova Griček - Grušova","P10",0,7208
+76,8501,105147,"Avtobusna postaja - Trčova Griček - Grušova","P10",0,7208
+76,8504,105148,"Grušova - Trčova Griček - Melje - Avtobusna postaja","P10",1,7206
+76,8504,105149,"Grušova - Metava - Trčova - galerija - Avtobusna postaja","P10",1,7204
+76,8504,105153,"Avtobusna postaja - Trčova Griček - Grušova","P10",0,7202
+76,8504,105154,"Avtobusna postaja - Trčova Griček - Grušova","P10",0,7202
+76,8504,105155,"Avtobusna postaja - Trčova Griček - Grušova","P10",0,7202
+76,8504,105156,"Avtobusna postaja - Trčova Griček - Grušova","P10",0,7202
+76,8504,105157,"Avtobusna postaja - Trčova Griček - Grušova","P10",0,7202
+76,8504,105158,"Avtobusna postaja - Trčova Griček - Grušova","P10",0,7202
+76,8504,105160,"Grušova - Trčova Griček - Melje - Avtobusna postaja","P10",1,7206
+76,8504,105162,"Grušova - Melje - Avtobusna postaja","P10",1,7205
+76,8504,105167,"Grušova - Metava - Trčova - galerija - Avtobusna postaja","P10",1,7204
+76,8504,105168,"Grušova - Metava - Trčova - galerija - Avtobusna postaja","P10",1,7204
+76,8504,105169,"Grušova - Metava - Trčova - galerija - Avtobusna postaja","P10",1,7204
+76,8504,105170,"Avtobusna postaja - Trčova Griček - Grušova","P10",0,7202
+76,8504,105172,"Avtobusna postaja - Mal. odc. Trčova - Grušova","P10",0,7203
+76,8503,105176,"Grušova - Metava - Trčova - galerija - Melje - Mlinska AP","P10",1,7196
+75,8503,105177,"Dogoše - Avtobusna postaja","P9",1,6957
+76,8503,111080,"Mlinska AP - Trčova Griček - Grušova","P10",0,7193
+76,8503,111083,"Mlinska AP - Trčova Griček - Grušova","P10",0,7193
+76,8503,111084,"Grušova - Trčova Griček - Melje - Mlinska AP","P10",1,7198
+76,8503,111085,"Mlinska AP - Trčova Griček - Grušova","P10",0,7193
+76,8503,111086,"Grušova - Melje - Mlinska AP","P10",1,7197
+76,8503,111087,"Mlinska AP - Trčova Griček - Grušova","P10",0,7193
+76,8503,111088,"Mlinska AP - Trčova Griček - Grušova","P10",0,7193
+70,8500,111724,"Avtobusna postaja -  Pekre - Limbuš","G4",0,7415
+70,8500,111744,"Avtobusna postaja -  Pekre - Limbuš","G4",0,7415
+70,8500,111745,"Avtobusna postaja -  Pekre - Limbuš","G4",0,7415
+70,8500,111746,"Avtobusna postaja -  Pekre - Limbuš","G4",0,7415
+70,8500,111747,"Avtobusna postaja -  Pekre - Limbuš","G4",0,7415
+73,8500,111820,"Rošpoh - Avtobusna postaja","P7",1,7157
+76,8503,111822,"Grušova - Metava - Trčova - galerija - Melje - Mlinska AP","P10",1,7196
+76,8503,111823,"Grušova - Melje - Mlinska AP","P10",1,7197
+76,8503,111824,"Mlinska AP - Metava - Grušova","P10",0,7192
+82,8503,111825,"Avtobusna postaja - Ul. Veljka Vlahovića - Zg. Duplek","P16",0,7418
+82,8503,111826,"Avtobusna postaja - Ul. Veljka Vlahovića - Zg. Duplek","P16",0,7418
+82,8503,111827,"Avtobusna postaja - Ul. Veljka Vlahovića - Zg. Duplek","P16",0,7418
+82,8503,111828,"Avtobusna postaja - Ul. Veljka Vlahovića - Zg. Duplek","P16",0,7418
+82,8503,111829,"Avtobusna postaja - Dupleška kanal","P16",0,7417
+82,8503,111830,"Avtobusna postaja - Ul. Veljka Vlahovića - Zg. Duplek","P16",0,7418
+82,8503,111831,"Avtobusna postaja - Dupleška kanal","P16",0,7417
+82,8503,111832,"Avtobusna postaja - Ul. Veljka Vlahovića - Zg. Duplek","P16",0,7418
+82,8503,111833,"Avtobusna postaja - Ul. Veljka Vlahovića - Zg. Duplek","P16",0,7418
+82,8503,111834,"Avtobusna postaja - Ul. Veljka Vlahovića - Zg. Duplek","P16",0,7418
+82,8503,111835,"Avtobusna postaja - Dupleška kanal","P16",0,7417
+82,8503,111836,"Avtobusna postaja - Ul. Veljka Vlahovića - Zg. Duplek","P16",0,7418
+82,8503,111837,"Avtobusna postaja - Ul. Veljka Vlahovića - Zg. Duplek","P16",0,7418
+82,8503,111838,"Avtobusna postaja - Ul. Veljka Vlahovića - Zg. Duplek","P16",0,7418
+82,8503,111839,"Avtobusna postaja - Dupleška kanal","P16",0,7417
+82,8503,111840,"Avtobusna postaja - Ul. Veljka Vlahovića - Zg. Duplek","P16",0,7418
+82,8503,111841,"Avtobusna postaja - Ul. Veljka Vlahovića - Zg. Duplek","P16",0,7418
+82,8503,111842,"Avtobusna postaja - Ul. Veljka Vlahovića - Zg. Duplek","P16",0,7418
+82,8503,111843,"Avtobusna postaja - Ul. Veljka Vlahovića - Zg. Duplek","P16",0,7418
+82,8503,111844,"Avtobusna postaja - Dupleška kanal","P16",0,7417
+82,8503,111845,"Avtobusna postaja - Ul. Veljka Vlahovića - Zg. Duplek","P16",0,7418
+82,8503,111846,"Avtobusna postaja - Dupleška kanal","P16",0,7417
+82,8503,111847,"Avtobusna postaja - Ul. Veljka Vlahovića - Zg. Duplek","P16",0,7418
+82,8503,111848,"Avtobusna postaja - Ul. Veljka Vlahovića - Zg. Duplek","P16",0,7418
+82,8503,111849,"Avtobusna postaja - Ul. Veljka Vlahovića - Zg. Duplek","P16",0,7418
+82,8503,111850,"Zg. Duplek - Ul. Veljka Vlahovića - Avtobusna postaja","P16",1,7420
+82,8503,111851,"Zg. Duplek - Ul. Veljka Vlahovića - Avtobusna postaja","P16",1,7420
+82,8503,111852,"Zg. Duplek - Ul. Veljka Vlahovića - Avtobusna postaja","P16",1,7420
+82,8503,111853,"Zg. Duplek - Ul. Veljka Vlahovića - Avtobusna postaja","P16",1,7420
+82,8503,111854,"Zg. Duplek - Ul. Veljka Vlahovića - Avtobusna postaja","P16",1,7420
+82,8503,111855,"Zg. Duplek - Ul. Veljka Vlahovića - Avtobusna postaja","P16",1,7420
+82,8503,111856,"Dupleška kanal - Avtobusna postaja","P16",1,7419
+82,8503,111857,"Zg. Duplek - Ul. Veljka Vlahovića - Avtobusna postaja","P16",1,7420
+82,8503,111858,"Dupleška kanal - Avtobusna postaja","P16",1,7419
+82,8503,111859,"Zg. Duplek - Ul. Veljka Vlahovića - Avtobusna postaja","P16",1,7420
+82,8503,111860,"Zg. Duplek - Ul. Veljka Vlahovića - Avtobusna postaja","P16",1,7420
+82,8503,111861,"Zg. Duplek - Ul. Veljka Vlahovića - Avtobusna postaja","P16",1,7420
+82,8503,111862,"Dupleška kanal - Avtobusna postaja","P16",1,7419
+82,8503,111863,"Zg. Duplek - Ul. Veljka Vlahovića - Avtobusna postaja","P16",1,7420
+82,8503,111864,"Zg. Duplek - Ul. Veljka Vlahovića - Avtobusna postaja","P16",1,7420
+82,8503,111865,"Zg. Duplek - Ul. Veljka Vlahovića - Avtobusna postaja","P16",1,7420
+82,8503,111866,"Dupleška kanal - Avtobusna postaja","P16",1,7419
+82,8503,111867,"Zg. Duplek - Ul. Veljka Vlahovića - Avtobusna postaja","P16",1,7420
+82,8503,111868,"Zg. Duplek - Ul. Veljka Vlahovića - Avtobusna postaja","P16",1,7420
+82,8503,111869,"Zg. Duplek - Ul. Veljka Vlahovića - Avtobusna postaja","P16",1,7420
+82,8503,111870,"Dupleška kanal - Avtobusna postaja","P16",1,7419
+82,8503,111871,"Zg. Duplek - Ul. Veljka Vlahovića - Avtobusna postaja","P16",1,7420
+82,8503,111872,"Dupleška kanal - Avtobusna postaja","P16",1,7419
+82,8503,111873,"Zg. Duplek - Ul. Veljka Vlahovića - Avtobusna postaja","P16",1,7420
+82,8503,111874,"Zg. Duplek - Ul. Veljka Vlahovića - Avtobusna postaja","P16",1,7420
+76,8503,111876,"Grušova - Metava - Trčova - galerija - Melje - Mlinska AP","P10",1,7196
+70,8500,111877,"Avtobusna postaja -  Pekre - Limbuš","G4",0,7415
+70,8500,111884,"Avtobusna postaja -  Pekre - Limbuš","G4",0,7415
+75,8503,111975,"Avtobusna postaja - Dogoše","P9",0,6956
+75,8503,111976,"Dogoše - Avtobusna postaja","P9",1,6957
+75,8503,111977,"Avtobusna postaja - Dogoše","P9",0,6956
+75,8503,111978,"Avtobusna postaja - Dogoše","P9",0,6956
+75,8503,111979,"Dogoše - Avtobusna postaja","P9",1,6957
+78,8500,112049,"Avtobusna postaja - Dobrava - Supernova","P12",0,7423
+78,8500,112050,"Avtobusna postaja - Dobrava - Supernova","P12",0,7423
+78,8500,112051,"Avtobusna postaja - Dobrava - Supernova","P12",0,7423
+78,8500,112052,"Avtobusna postaja - Dobrava - Supernova","P12",0,7423
+78,8500,112057,"Avtobusna postaja - Dobrava - Supernova","P12",0,7423
+78,8500,112058,"Avtobusna postaja - Dobrava - Supernova","P12",0,7423
+78,8500,112059,"Avtobusna postaja - Dobrava - Supernova","P12",0,7423
+78,8500,112060,"Avtobusna postaja - Dobrava - Supernova","P12",0,7423
+78,8500,112061,"Avtobusna postaja - Dobrava - Supernova","P12",0,7423
+78,8500,112062,"Avtobusna postaja - Dobrava - Supernova","P12",0,7423
+78,8500,112063,"Avtobusna postaja - Dobrava - Supernova","P12",0,7423
+78,8500,112064,"Avtobusna postaja - Dobrava - Supernova","P12",0,7423
+78,8500,112065,"Avtobusna postaja - Dobrava - Supernova","P12",0,7423
+78,8500,112066,"Avtobusna postaja - Dobrava - Supernova","P12",0,7423
+78,8500,112067,"Supernova - Dobrava - Avtobusna postaja","P12",1,7424
+78,8500,112068,"Supernova - Dobrava - Avtobusna postaja","P12",1,7424
+78,8500,112069,"Supernova - Dobrava - Avtobusna postaja","P12",1,7424
+78,8500,112070,"Supernova - Dobrava - Avtobusna postaja","P12",1,7424
+78,8500,112071,"Supernova - Dobrava - Avtobusna postaja","P12",1,7424
+78,8500,112075,"Supernova - Dobrava - Avtobusna postaja","P12",1,7424
+78,8500,112076,"Supernova - Dobrava - Avtobusna postaja","P12",1,7424
+78,8500,112077,"Supernova - Dobrava - Avtobusna postaja","P12",1,7424
+78,8500,112078,"Supernova - Dobrava - Avtobusna postaja","P12",1,7424
+78,8500,112079,"Supernova - Dobrava - Avtobusna postaja","P12",1,7424
+78,8500,112080,"Supernova - Dobrava - Avtobusna postaja","P12",1,7424
+78,8500,112081,"Supernova - Dobrava - Avtobusna postaja","P12",1,7424
+78,8500,112082,"Supernova - Dobrava - Avtobusna postaja","P12",1,7424
+78,8500,112083,"Supernova - Dobrava - Avtobusna postaja","P12",1,7424
+78,8500,112084,"Supernova - Dobrava - Avtobusna postaja","P12",1,7424
+78,8500,112085,"Avtobusna postaja - Dobrava - Supernova","P12",0,7423
+78,8500,112086,"Avtobusna postaja - Dobrava - Supernova","P12",0,7423
+78,8500,112087,"Avtobusna postaja - Dobrava - Supernova","P12",0,7423
+78,8500,112088,"Avtobusna postaja - Dobrava - Supernova","P12",0,7423
+78,8500,112089,"Avtobusna postaja - Dobrava - Supernova","P12",0,7423
+78,8500,112090,"Avtobusna postaja - Dobrava - Supernova","P12",0,7423
+78,8500,112092,"Supernova - Dobrava - Avtobusna postaja","P12",1,7424
+78,8500,112093,"Supernova - Dobrava - Avtobusna postaja","P12",1,7424
+78,8500,112094,"Supernova - Dobrava - Avtobusna postaja","P12",1,7424
+78,8500,112095,"Supernova - Dobrava - Avtobusna postaja","P12",1,7424
+78,8500,112096,"Supernova - Dobrava - Avtobusna postaja","P12",1,7424
+82,8504,112109,"Avtobusna postaja - Ul. Veljka Vlahovića - Zg. Duplek","P16",0,7432
+82,8504,112110,"Avtobusna postaja - Ul. Veljska Vlahovića - Dupleška kanal","P16",0,7431
+82,8504,112111,"Avtobusna postaja - Ul. Veljska Vlahovića - Dupleška kanal","P16",0,7431
+82,8504,112112,"Avtobusna postaja - Ul. Veljska Vlahovića - Dupleška kanal","P16",0,7431
+82,8504,112113,"Avtobusna postaja - Ul. Veljka Vlahovića - Zg. Duplek","P16",0,7432
+82,8504,112114,"Avtobusna postaja - Ul. Veljska Vlahovića - Dupleška kanal","P16",0,7431
+82,8504,112115,"Avtobusna postaja - Ul. Veljska Vlahovića - Dupleška kanal","P16",0,7431
+82,8504,112116,"Avtobusna postaja - Ul. Veljska Vlahovića - Dupleška kanal","P16",0,7431
+82,8504,112117,"Avtobusna postaja - Ul. Veljka Vlahovića - Zg. Duplek","P16",0,7432
+82,8504,112118,"Avtobusna postaja - Ul. Veljska Vlahovića - Dupleška kanal","P16",0,7431
+82,8504,112119,"Avtobusna postaja - Ul. Veljska Vlahovića - Dupleška kanal","P16",0,7431
+82,8504,112120,"Avtobusna postaja - Ul. Veljska Vlahovića - Dupleška kanal","P16",0,7431
+82,8504,112121,"Avtobusna postaja - Ul. Veljka Vlahovića - Zg. Duplek","P16",0,7432
+82,8504,112122,"Avtobusna postaja - Ul. Veljska Vlahovića - Dupleška kanal","P16",0,7431
+82,8504,112123,"Avtobusna postaja - Ul. Veljska Vlahovića - Dupleška kanal","P16",0,7431
+82,8504,112124,"Avtobusna postaja - Ul. Veljska Vlahovića - Dupleška kanal","P16",0,7431
+82,8504,112125,"Avtobusna postaja - Ul. Veljka Vlahovića - Zg. Duplek","P16",0,7432
+82,8504,112126,"Zg. Duplek - Ul. Veljka Vlahovića - Avtobusna postaja","P16",1,7434
+82,8504,112127,"Zg. Duplek - Ul. Veljka Vlahovića - Avtobusna postaja","P16",1,7434
+82,8504,112128,"Kanal - Avtobusna postaja","P16",1,7433
+82,8504,112129,"Kanal - Avtobusna postaja","P16",1,7433
+82,8504,112130,"Kanal - Avtobusna postaja","P16",1,7433
+82,8504,112131,"Zg. Duplek - Ul. Veljka Vlahovića - Avtobusna postaja","P16",1,7434
+82,8504,112132,"Kanal - Avtobusna postaja","P16",1,7433
+82,8504,112133,"Kanal - Avtobusna postaja","P16",1,7433
+82,8504,112134,"Kanal - Avtobusna postaja","P16",1,7433
+82,8504,112135,"Zg. Duplek - Ul. Veljka Vlahovića - Avtobusna postaja","P16",1,7434
+82,8504,112136,"Kanal - Avtobusna postaja","P16",1,7433
+82,8504,112137,"Kanal - Avtobusna postaja","P16",1,7433
+82,8504,112138,"Kanal - Avtobusna postaja","P16",1,7433
+82,8504,112139,"Zg. Duplek - Ul. Veljka Vlahovića - Avtobusna postaja","P16",1,7434
+82,8504,112140,"Kanal - Avtobusna postaja","P16",1,7433
+82,8504,112141,"Kanal - Avtobusna postaja","P16",1,7433
+82,8504,112142,"Kanal - Avtobusna postaja","P16",1,7433
+82,8501,112143,"Avtobusna postaja - Ul. Veljka Vlahovića - Zg. Duplek","P16",0,7436
+82,8501,112144,"Avtobusna postaja - Dupleška kanal","P16",0,7435
+82,8501,112145,"Avtobusna postaja - Dupleška kanal","P16",0,7435
+82,8501,112146,"Avtobusna postaja - Ul. Veljka Vlahovića - Zg. Duplek","P16",0,7436
+82,8501,112147,"Avtobusna postaja - Dupleška kanal","P16",0,7435
+70,8504,112430,"Limbuš - Pekre - Poljane - Avtobusna postaja","G4",1,7452
+70,8504,112431,"Limbuš - Pekre - Poljane - Avtobusna postaja","G4",1,7452
+70,8504,112432,"Limbuš Lesarska šola - Avtobusna postaja","G4",1,7450
+70,8504,112433,"Limbuš - Pekre - Poljane - Avtobusna postaja","G4",1,7452
+70,8504,112434,"Limbuš - Pekre - Poljane - Avtobusna postaja","G4",1,7452
+70,8504,112435,"Limbuš Lesarska šola - Avtobusna postaja","G4",1,7450
+70,8504,112438,"Limbuš - Pekre - Poljane - Avtobusna postaja","G4",1,7452
+70,8504,112439,"Limbuš - Pekre - Poljane - Avtobusna postaja","G4",1,7452
+70,8504,112440,"Limbuš Lesarska šola - Avtobusna postaja","G4",1,7450
+70,8504,112441,"Limbuš - Pekre - Poljane - Avtobusna postaja","G4",1,7452
+70,8504,112442,"Limbuš - Pekre - Poljane - Avtobusna postaja","G4",1,7452
+70,8504,112443,"Limbuš Lesarska šola - Avtobusna postaja","G4",1,7450
+70,8504,112444,"Limbuš - Pekre - Poljane - Avtobusna postaja","G4",1,7452
+70,8504,112445,"Limbuš - Pekre - Poljane - Avtobusna postaja","G4",1,7452
+70,8504,112446,"Limbuš Lesarska šola - Avtobusna postaja","G4",1,7450
+70,8504,112447,"Limbuš - Pekre - Poljane - Avtobusna postaja","G4",1,7452
+70,8504,112448,"Limbuš - Pekre - Poljane - Avtobusna postaja","G4",1,7452
+70,8500,112452,"Avtobusna postaja - Lesarska šola - Pekre - Limbuš","G4",0,7403
+70,8500,112453,"Avtobusna postaja - Lesarska šola - Pekre - Limbuš","G4",0,7403
+70,8500,112454,"Avtobusna postaja - Lesarska šola - Pekre - Limbuš","G4",0,7403
+70,8500,112455,"Avtobusna postaja - Lesarska šola - Pekre - Limbuš","G4",0,7403
+70,8500,112456,"Avtobusna postaja - Lesarska šola - Pekre - Limbuš","G4",0,7403
+65,8500,112552,"Pobreška Europark - Univerzitetni kampus - Kamnica","G5",0,7455
+65,8500,112554,"Pobreška Europark - Univerzitetni kampus - Kamnica","G5",0,7455
+65,8500,112555,"Kamnica - Univerzitetni kampus - Pobreška Europark","G5",1,7456
+65,8500,112577,"Kamnica - Univerzitetni kampus - Pobreška Europark","G5",1,7456
+65,8500,112585,"Kamnica - Univerzitetni kampus - Pobreška Europark","G5",1,7456
+65,8500,112586,"Kamnica - Univerzitetni kampus - Pobreška Europark","G5",1,7456
+65,8500,112587,"Kamnica - Univerzitetni kampus - Pobreška Europark","G5",1,7456
+65,8500,112588,"Kamnica - Univerzitetni kampus - Pobreška Europark","G5",1,7456
+65,8500,112589,"Kamnica - Univerzitetni kampus - Pobreška Europark","G5",1,7456
+65,8500,112590,"Kamnica - Univerzitetni kampus - Pobreška Europark","G5",1,7456
+65,8500,112591,"Kamnica - Univerzitetni kampus - Pobreška Europark","G5",1,7456
+65,8500,112592,"Kamnica - Univerzitetni kampus - Pobreška Europark","G5",1,7456
+65,8500,112593,"Kamnica - Univerzitetni kampus - Pobreška Europark","G5",1,7456
+65,8500,112594,"Kamnica - Univerzitetni kampus - Pobreška Europark","G5",1,7456
+65,8500,112595,"Kamnica - Univerzitetni kampus - Pobreška Europark","G5",1,7456
+65,8500,112596,"Kamnica - Univerzitetni kampus - Pobreška Europark","G5",1,7456
+65,8500,112607,"Kamnica - Univerzitetni kampus - Pobreška Europark","G5",1,7456
+65,8500,112608,"Kamnica - Univerzitetni kampus - Pobreška Europark","G5",1,7456
+65,8500,112609,"Kamnica - Univerzitetni kampus - Pobreška Europark","G5",1,7456
+65,8500,112610,"Kamnica - Univerzitetni kampus - Pobreška Europark","G5",1,7456
+65,8500,112611,"Kamnica - Univerzitetni kampus - Pobreška Europark","G5",1,7456
+65,8500,112612,"Kamnica - Univerzitetni kampus - Pobreška Europark","G5",1,7456
+65,8500,112613,"Kamnica - Univerzitetni kampus - Pobreška Europark","G5",1,7456
+65,8500,112614,"Kamnica - Univerzitetni kampus - Pobreška Europark","G5",1,7456
+65,8500,112615,"Kamnica - Univerzitetni kampus - Pobreška Europark","G5",1,7456
+65,8500,112616,"Kamnica - Univerzitetni kampus - Pobreška Europark","G5",1,7456
+65,8500,112618,"Pobreška Europark - Univerzitetni kampus - Kamnica","G5",0,7455
+65,8500,112619,"Pobreška Europark - Univerzitetni kampus - Kamnica","G5",0,7455
+65,8500,112620,"Pobreška Europark - Univerzitetni kampus - Kamnica","G5",0,7455
+65,8500,112622,"Pobreška Europark - Univerzitetni kampus - Kamnica","G5",0,7455
+65,8500,112623,"Pobreška Europark - Univerzitetni kampus - Kamnica","G5",0,7455
+65,8500,112624,"Pobreška Europark - Univerzitetni kampus - Kamnica","G5",0,7455
+65,8500,112625,"Pobreška Europark - Univerzitetni kampus - Kamnica","G5",0,7455
+65,8500,112626,"Pobreška Europark - Univerzitetni kampus - Kamnica","G5",0,7455
+65,8500,112627,"Pobreška Europark - Univerzitetni kampus - Kamnica","G5",0,7455
+65,8500,112628,"Pobreška Europark - Univerzitetni kampus - Kamnica","G5",0,7455
+65,8500,112629,"Pobreška Europark - Univerzitetni kampus - Kamnica","G5",0,7455
+65,8500,112630,"Pobreška Europark - Univerzitetni kampus - Kamnica","G5",0,7455
+65,8500,112631,"Kamnica - Univerzitetni kampus - Pobreška Europark","G5",1,7456
+65,8500,112639,"Pobreška Europark - Univerzitetni kampus - Kamnica","G5",0,7455
+65,8500,112647,"Pobreška Europark - Univerzitetni kampus - Kamnica","G5",0,7455
+65,8500,112648,"Pobreška Europark - Univerzitetni kampus - Kamnica","G5",0,7455
+65,8500,112649,"Pobreška Europark - Univerzitetni kampus - Kamnica","G5",0,7455
+65,8500,112650,"Pobreška Europark - Univerzitetni kampus - Kamnica","G5",0,7455
+65,8500,112651,"Pobreška Europark - Univerzitetni kampus - Kamnica","G5",0,7455
+65,8500,112652,"Pobreška Europark - Univerzitetni kampus - Kamnica","G5",0,7455
+65,8500,112653,"Kamnica - Univerzitetni kampus - Pobreška Europark","G5",1,7456
+65,8500,112654,"Kamnica - Univerzitetni kampus - Pobreška Europark","G5",1,7456
+65,8500,112655,"Kamnica - Univerzitetni kampus - Pobreška Europark","G5",1,7456
+65,8500,112656,"Kamnica - Univerzitetni kampus - Pobreška Europark","G5",1,7456
+65,8500,112657,"Kamnica - Univerzitetni kampus - Pobreška Europark","G5",1,7456
+65,8500,112658,"Kamnica - Univerzitetni kampus - Pobreška Europark","G5",1,7456
+65,8500,112659,"Kamnica - Univerzitetni kampus - Pobreška Europark","G5",1,7456
+65,8500,112660,"Kamnica - Univerzitetni kampus - Pobreška Europark","G5",1,7456
+65,8500,112661,"Kamnica - Univerzitetni kampus - Pobreška Europark","G5",1,7456
+65,8500,112662,"Kamnica - Univerzitetni kampus - Pobreška Europark","G5",1,7456
+65,8500,112663,"Kamnica - Univerzitetni kampus - Pobreška Europark","G5",1,7456
+65,8500,112664,"Kamnica - Univerzitetni kampus - Pobreška Europark","G5",1,7456
+65,8500,112665,"Kamnica - Univerzitetni kampus - Pobreška Europark","G5",1,7456
+65,8500,112666,"Kamnica - Univerzitetni kampus - Pobreška Europark","G5",1,7456
+65,8500,112668,"Pobreška Europark - Univerzitetni kampus - Kamnica","G5",0,7455
+65,8500,112669,"Pobreška Europark - Univerzitetni kampus - Kamnica","G5",0,7455
+65,8500,112670,"Pobreška Europark - Univerzitetni kampus - Kamnica","G5",0,7455
+65,8500,112671,"Pobreška Europark - Univerzitetni kampus - Kamnica","G5",0,7455
+65,8500,112672,"Pobreška Europark - Univerzitetni kampus - Kamnica","G5",0,7455
+65,8500,112673,"Pobreška Europark - Univerzitetni kampus - Kamnica","G5",0,7455
+65,8500,112674,"Pobreška Europark - Univerzitetni kampus - Kamnica","G5",0,7455
+65,8500,112675,"Pobreška Europark - Univerzitetni kampus - Kamnica","G5",0,7455
+65,8500,112676,"Pobreška Europark - Univerzitetni kampus - Kamnica","G5",0,7455
+65,8500,112677,"Pobreška Europark - Univerzitetni kampus - Kamnica","G5",0,7455
+65,8500,112678,"Pobreška Europark - Univerzitetni kampus - Kamnica","G5",0,7455
+65,8500,112679,"Pobreška Europark - Univerzitetni kampus - Kamnica","G5",0,7455
+65,8500,112680,"Pobreška Europark - Univerzitetni kampus - Kamnica","G5",0,7455
+65,8500,112681,"Pobreška Europark - Univerzitetni kampus - Kamnica","G5",0,7455
+65,8500,112682,"Pobreška Europark - Univerzitetni kampus - Kamnica","G5",0,7455
+65,8500,112683,"Pobreška Europark - Univerzitetni kampus - Kamnica","G5",0,7455
+65,8500,112684,"Pobreška Europark - Univerzitetni kampus - Kamnica","G5",0,7455
+65,8500,112687,"Pobreška Europark - Univerzitetni kampus - Kamnica","G5",0,7455
+70,8500,112688,"Avtobusna postaja - Lesarska šola - Pekre - Limbuš","G4",0,7403
+70,8500,112689,"Avtobusna postaja -  Pekre - Limbuš","G4",0,7415
+70,8500,112690,"Avtobusna postaja -  Pekre - Limbuš","G4",0,7415
+70,8500,112691,"Avtobusna postaja -  Pekre - Limbuš","G4",0,7415
+70,8500,112693,"Avtobusna postaja -  Pekre - Limbuš","G4",0,7415
+70,8500,112694,"Avtobusna postaja - Lesarska šola - Pekre - Limbuš","G4",0,7403
+70,8500,112695,"Avtobusna postaja -  Pekre - Limbuš","G4",0,7415
+70,8500,112698,"Limbuš - Pekre - Lesarska šola - Avtobusna postaja","G4",1,7404
+70,8500,112707,"Avtobusna postaja - Lesarska šola - Pekre - Limbuš","G4",0,7403
+70,8500,112709,"Avtobusna postaja - Lesarska šola - Pekre - Limbuš","G4",0,7403
+70,8500,112710,"Avtobusna postaja - Lesarska šola - Pekre - Limbuš","G4",0,7403
+70,8500,112712,"Avtobusna postaja - Lesarska šola - Pekre - Limbuš","G4",0,7403
+70,8500,112714,"Avtobusna postaja -  Pekre - Limbuš","G4",0,7415
+70,8500,112716,"Avtobusna postaja -  Pekre - Limbuš","G4",0,7415
+70,8500,112722,"Limbuš - Pekre - Lesarska šola - Avtobusna postaja","G4",1,7404
+70,8500,112723,"Limbuš - Pekre - Lesarska šola - Avtobusna postaja","G4",1,7404
+70,8500,112728,"Avtobusna postaja - Lesarska šola - Pekre - Limbuš","G4",0,7403
+70,8500,112729,"Limbuš - Pekre - Studenci - Avtobusna postaja","G4",1,7416
+70,8500,112774,"Avtobusna postaja -  Pekre - Limbuš","G4",0,7415
+70,8500,112775,"Avtobusna postaja -  Pekre - Limbuš","G4",0,7415
+70,8500,112777,"Avtobusna postaja -  Pekre - Limbuš","G4",0,7415
+70,8500,112778,"Avtobusna postaja -  Pekre - Limbuš","G4",0,7415
+70,8500,112780,"Avtobusna postaja -  Pekre - Limbuš","G4",0,7415
+70,8500,112781,"Avtobusna postaja -  Pekre - Limbuš","G4",0,7415
+70,8500,112790,"Avtobusna postaja -  Pekre - Limbuš","G4",0,7415
+70,8500,112797,"Avtobusna postaja -  Pekre - Limbuš","G4",0,7415
+70,8500,112798,"Avtobusna postaja -  Pekre - Limbuš","G4",0,7415
+70,8500,112799,"Avtobusna postaja -  Pekre - Limbuš","G4",0,7415
+70,8500,112800,"Avtobusna postaja -  Pekre - Limbuš","G4",0,7415
+70,8500,112801,"Avtobusna postaja -  Pekre - Limbuš","G4",0,7415
+70,8500,112802,"Avtobusna postaja -  Pekre - Limbuš","G4",0,7415
+70,8500,112813,"Limbuš - Pekre - Lesarska šola - Avtobusna postaja","G4",1,7404
+70,8500,112818,"Limbuš - Pekre - Studenci - Avtobusna postaja","G4",1,7416
+70,8500,112819,"Limbuš - Pekre - Studenci - Avtobusna postaja","G4",1,7416
+70,8500,112820,"Avtobusna postaja - Lesarska šola - Pekre - Limbuš","G4",0,7403
+70,8500,112821,"Avtobusna postaja - Lesarska šola - Pekre - Limbuš","G4",0,7403
+69,8504,112822,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7442
+69,8504,112823,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7442
+69,8504,112827,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7442
+69,8504,112828,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7442
+69,8504,112829,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7442
+69,8504,112830,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7442
+69,8504,112831,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7442
+69,8504,112832,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7442
+69,8504,112833,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7442
+69,8504,112834,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7442
+69,8504,112835,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7442
+69,8504,112836,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7442
+69,8504,112837,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7442
+74,8504,102794,"Pekre - Limbuš - Avtobusna postaja","P8",1,7056
+74,8504,102795,"Pekre - Limbuš - Avtobusna postaja","P8",1,7056
+74,8504,102796,"Pekre - Limbuš - Avtobusna postaja","P8",1,7056
+74,8504,102797,"Pekre - Limbuš - Avtobusna postaja","P8",1,7056
+74,8504,102798,"Pekre - Limbuš - Avtobusna postaja","P8",1,7056
+74,8504,102799,"Pekre - Limbuš - Avtobusna postaja","P8",1,7056
+74,8504,102800,"Pekre - Limbuš - Avtobusna postaja","P8",1,7056
+74,8504,102801,"Pekre - Limbuš - Avtobusna postaja","P8",1,7056
+74,8504,102802,"Pekre - Limbuš - Avtobusna postaja","P8",1,7056
+74,8501,102803,"Avtobusna postaja - Limbuš - Pekre","P8",0,7057
+74,8501,102804,"Avtobusna postaja - Limbuš - Pekre","P8",0,7057
+74,8501,102805,"Avtobusna postaja - Limbuš - Pekre","P8",0,7057
+74,8501,102806,"Avtobusna postaja - Limbuš - Pekre","P8",0,7057
+74,8501,102807,"Avtobusna postaja - Limbuš - Pekre","P8",0,7057
+74,8501,102808,"Avtobusna postaja - Limbuš - Pekre","P8",0,7057
+74,8501,102809,"Avtobusna postaja - Limbuš - Pekre","P8",0,7057
+74,8501,102810,"Avtobusna postaja - Limbuš - Pekre","P8",0,7057
+74,8501,102811,"Avtobusna postaja - Limbuš - Pekre","P8",0,7057
+74,8501,102812,"Avtobusna postaja - Limbuš - Pekre","P8",0,7057
+74,8501,102813,"Avtobusna postaja - Limbuš - Pekre","P8",0,7057
+74,8501,102814,"Avtobusna postaja - Limbuš - Pekre","P8",0,7057
+74,8501,102815,"Pekre - Limbuš - Avtobusna postaja","P8",1,7058
+74,8501,102816,"Pekre - Limbuš - Avtobusna postaja","P8",1,7058
+74,8501,102817,"Pekre - Limbuš - Avtobusna postaja","P8",1,7058
+74,8501,102818,"Pekre - Limbuš - Avtobusna postaja","P8",1,7058
+74,8501,102819,"Pekre - Limbuš - Avtobusna postaja","P8",1,7058
+74,8501,102820,"Pekre - Limbuš - Avtobusna postaja","P8",1,7058
+74,8501,102821,"Pekre - Limbuš - Avtobusna postaja","P8",1,7058
+74,8501,102822,"Pekre - Limbuš - Avtobusna postaja","P8",1,7058
+74,8501,102823,"Pekre - Limbuš - Avtobusna postaja","P8",1,7058
+74,8501,102824,"Pekre - Limbuš - Avtobusna postaja","P8",1,7058
+74,8501,102825,"Pekre - Limbuš - Avtobusna postaja","P8",1,7058
+74,8501,102826,"Pekre - Limbuš - Avtobusna postaja","P8",1,7058
+79,8504,102828,"Avtobusna postaja - Stražun","P13",0,7081
+79,8504,102830,"Avtobusna postaja - Stražun","P13",0,7081
+79,8504,102832,"Avtobusna postaja - Stražun","P13",0,7081
+79,8504,102839,"Stražun - Avtobusna postaja","P13",1,7082
+79,8504,102841,"Stražun - Avtobusna postaja","P13",1,7082
+79,8504,102843,"Stražun - Avtobusna postaja","P13",1,7082
+80,8504,102848,"Limbuš - Supernova - Merkur","P14",0,7061
+80,8504,102864,"Merkur - Supernova - Limbuš","P14",1,7062
+81,8504,102979,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7069
+81,8504,102980,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7069
+81,8504,102981,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7069
+81,8504,102986,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7069
+81,8504,102987,"Avtobusna postaja - Koš. dol - Bresternica","P15",0,7069
+81,8504,102988,"Bresternica - Avtobusna postaja","P15",1,7070
+81,8504,102989,"Bresternica - Avtobusna postaja","P15",1,7070
+81,8504,102990,"Bresternica - Avtobusna postaja","P15",1,7070
+68,8501,103019,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7079
+68,8501,103035,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7080
+68,8504,103204,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7099
+71,8501,103335,"Avtobusna postaja - Vzpenjača","G6",0,7105
+71,8501,103336,"Avtobusna postaja - Vzpenjača","G6",0,7105
+71,8501,103337,"Avtobusna postaja - Vzpenjača","G6",0,7105
+71,8501,103338,"Avtobusna postaja - Vzpenjača","G6",0,7105
+71,8501,103339,"Avtobusna postaja - Vzpenjača","G6",0,7105
+71,8501,103340,"Avtobusna postaja - Vzpenjača","G6",0,7105
+71,8501,103341,"Avtobusna postaja - Vzpenjača","G6",0,7105
+71,8501,103342,"Avtobusna postaja - Vzpenjača","G6",0,7105
+71,8501,103343,"Avtobusna postaja - Vzpenjača","G6",0,7105
+71,8501,103344,"Avtobusna postaja - Vzpenjača","G6",0,7105
+71,8501,103345,"Avtobusna postaja - Vzpenjača","G6",0,7105
+71,8501,103346,"Avtobusna postaja - Vzpenjača","G6",0,7105
+71,8501,103347,"Avtobusna postaja - Vzpenjača","G6",0,7105
+71,8501,103348,"Avtobusna postaja - Vzpenjača","G6",0,7105
+71,8501,103349,"Avtobusna postaja - Vzpenjača","G6",0,7105
+71,8501,103350,"Avtobusna postaja - Vzpenjača","G6",0,7105
+71,8501,103351,"Avtobusna postaja - Vzpenjača","G6",0,7105
+71,8501,103352,"Avtobusna postaja - Vzpenjača","G6",0,7105
+71,8501,103353,"Avtobusna postaja - Vzpenjača","G6",0,7105
+71,8501,103354,"Avtobusna postaja - Vzpenjača","G6",0,7105
+71,8501,103355,"Avtobusna postaja - Vzpenjača","G6",0,7105
+71,8501,103356,"Avtobusna postaja - Vzpenjača","G6",0,7105
+71,8501,103357,"Avtobusna postaja - Vzpenjača","G6",0,7105
+71,8501,103358,"Avtobusna postaja - Vzpenjača","G6",0,7105
+71,8501,103359,"Vzpenjača - Avtobusna postaja","G6",1,7106
+71,8501,103360,"Vzpenjača - Avtobusna postaja","G6",1,7106
+71,8501,103361,"Vzpenjača - Avtobusna postaja","G6",1,7106
+71,8501,103362,"Vzpenjača - Avtobusna postaja","G6",1,7106
+71,8501,103363,"Vzpenjača - Avtobusna postaja","G6",1,7106
+71,8501,103364,"Vzpenjača - Avtobusna postaja","G6",1,7106
+71,8501,103365,"Vzpenjača - Avtobusna postaja","G6",1,7106
+71,8501,103366,"Vzpenjača - Avtobusna postaja","G6",1,7106
+71,8501,103367,"Vzpenjača - Avtobusna postaja","G6",1,7106
+71,8501,103368,"Vzpenjača - Avtobusna postaja","G6",1,7106
+71,8501,103369,"Vzpenjača - Avtobusna postaja","G6",1,7106
+71,8501,103370,"Vzpenjača - Avtobusna postaja","G6",1,7106
+71,8501,103371,"Vzpenjača - Avtobusna postaja","G6",1,7106
+71,8501,103372,"Vzpenjača - Avtobusna postaja","G6",1,7106
+71,8501,103373,"Vzpenjača - Avtobusna postaja","G6",1,7106
+71,8501,103374,"Vzpenjača - Avtobusna postaja","G6",1,7106
+71,8501,103375,"Vzpenjača - Avtobusna postaja","G6",1,7106
+71,8501,103376,"Vzpenjača - Avtobusna postaja","G6",1,7106
+71,8501,103377,"Vzpenjača - Avtobusna postaja","G6",1,7106
+71,8501,103378,"Vzpenjača - Avtobusna postaja","G6",1,7106
+71,8501,103379,"Vzpenjača - Avtobusna postaja","G6",1,7106
+71,8501,103380,"Vzpenjača - Avtobusna postaja","G6",1,7106
+71,8501,103381,"Vzpenjača - Avtobusna postaja","G6",1,7106
+67,8501,103448,"Tezno - Avtobusna postaja","G1",1,6948
+68,8500,103467,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,103475,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,103476,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7018
+68,8500,103520,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103521,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103522,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103523,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103524,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103525,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103526,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103527,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103528,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103529,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103530,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103531,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103532,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103533,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103534,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103535,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103536,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103537,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103538,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103539,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103540,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103541,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103542,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103543,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103544,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103545,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103546,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103547,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103548,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103549,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103550,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103551,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103552,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103553,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103554,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103555,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103556,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103557,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103558,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103559,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103560,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103561,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+68,8500,103562,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7019
+69,8504,112838,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7442
+69,8504,112839,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7441
+69,8504,112840,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7441
+69,8504,112841,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7441
+69,8504,112842,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7441
+69,8504,112843,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7441
+69,8504,112844,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7441
+69,8504,112845,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7441
+69,8504,112848,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7441
+69,8504,112849,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7441
+69,8504,112851,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7441
+69,8504,112852,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7441
+69,8504,112853,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7441
+69,8504,112854,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7441
+69,8504,112856,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7441
+69,8504,112857,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7441
+69,8504,112858,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7441
+69,8504,112859,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7441
+69,8504,112860,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7441
+69,8504,112861,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7441
+69,8504,112862,"Jadranska - Ptujska - Pobrežje - Prlek- Gosposvetska","G3",0,7441
+70,8500,112863,"Limbuš - Pekre - Studenci - Avtobusna postaja","G4",1,7416
+70,8500,112864,"Limbuš - Pekre - Studenci - Avtobusna postaja","G4",1,7416
+70,8500,112865,"Limbuš - Pekre - Studenci - Avtobusna postaja","G4",1,7416
+70,8500,112866,"Limbuš - Pekre - Studenci - Avtobusna postaja","G4",1,7416
+70,8500,112867,"Limbuš - Pekre - Studenci - Avtobusna postaja","G4",1,7416
+70,8500,112868,"Limbuš - Pekre - Studenci - Avtobusna postaja","G4",1,7416
+70,8500,112869,"Limbuš - Pekre - Studenci - Avtobusna postaja","G4",1,7416
+70,8500,112870,"Limbuš - Pekre - Studenci - Avtobusna postaja","G4",1,7416
+70,8500,112871,"Limbuš - Pekre - Studenci - Avtobusna postaja","G4",1,7416
+70,8500,112872,"Limbuš - Pekre - Studenci - Avtobusna postaja","G4",1,7416
+70,8500,112873,"Limbuš - Pekre - Studenci - Avtobusna postaja","G4",1,7416
+70,8500,112874,"Limbuš - Pekre - Studenci - Avtobusna postaja","G4",1,7416
+70,8500,112875,"Limbuš - Pekre - Lesarska šola - Avtobusna postaja","G4",1,7404
+70,8500,112876,"Limbuš - Pekre - Lesarska šola - Avtobusna postaja","G4",1,7404
+70,8500,112877,"Limbuš - Pekre - Lesarska šola - Avtobusna postaja","G4",1,7404
+70,8500,112878,"Limbuš - Pekre - Lesarska šola - Avtobusna postaja","G4",1,7404
+70,8500,112879,"Limbuš - Pekre - Lesarska šola - Avtobusna postaja","G4",1,7404
+70,8500,112880,"Limbuš - Pekre - Lesarska šola - Avtobusna postaja","G4",1,7404
+70,8500,112881,"Limbuš - Pekre - Lesarska šola - Avtobusna postaja","G4",1,7404
+70,8500,112882,"Limbuš - Pekre - Studenci - Avtobusna postaja","G4",1,7416
+70,8500,112883,"Limbuš - Pekre - Studenci - Avtobusna postaja","G4",1,7416
+70,8500,112884,"Limbuš - Pekre - Studenci - Avtobusna postaja","G4",1,7416
+70,8500,112885,"Limbuš - Pekre - Studenci - Avtobusna postaja","G4",1,7416
+70,8500,112887,"Limbuš - Pekre - Studenci - Avtobusna postaja","G4",1,7416
+70,8500,112888,"Limbuš - Pekre - Studenci - Avtobusna postaja","G4",1,7416
+70,8500,112889,"Limbuš - Pekre - Lesarska šola - Avtobusna postaja","G4",1,7404
+70,8500,112890,"Limbuš - Pekre - Studenci - Avtobusna postaja","G4",1,7416
+70,8500,112891,"Limbuš - Pekre - Studenci - Avtobusna postaja","G4",1,7416
+70,8500,112892,"Limbuš - Pekre - Studenci - Avtobusna postaja","G4",1,7416
+70,8500,112893,"Limbuš - Pekre - Studenci - Avtobusna postaja","G4",1,7416
+70,8500,112894,"Limbuš - Pekre - Studenci - Avtobusna postaja","G4",1,7416
+70,8500,112895,"Limbuš - Pekre - Studenci - Avtobusna postaja","G4",1,7416
+70,8500,112896,"Limbuš - Pekre - Studenci - Avtobusna postaja","G4",1,7416
+85,8500,112966,"Supernova - Dom pod gorco - Avtobusna postaja","P19",1,7462
+85,8500,112967,"Avtobusna postaja - Dom pod gorco - Supernova","P19",0,7461
+85,8500,112969,"Avtobusna postaja - Dom pod gorco - Supernova","P19",0,7461
+85,8500,112970,"Avtobusna postaja - Dom pod gorco - Supernova","P19",0,7461
+85,8500,112971,"Avtobusna postaja - Dom pod gorco - Supernova","P19",0,7461
+85,8500,112972,"Avtobusna postaja - Dom pod gorco - Supernova","P19",0,7461
+85,8500,112973,"Avtobusna postaja - Dom pod gorco - Supernova","P19",0,7461
+85,8500,112985,"Supernova - Dom pod gorco - Avtobusna postaja","P19",1,7462
+85,8500,112986,"Supernova - Dom pod gorco - Avtobusna postaja","P19",1,7462
+85,8500,112987,"Supernova - Dom pod gorco - Avtobusna postaja","P19",1,7462
+85,8500,112988,"Supernova - Dom pod gorco - Avtobusna postaja","P19",1,7462
+85,8500,112989,"Supernova - Dom pod gorco - Avtobusna postaja","P19",1,7462
+85,8500,112990,"Supernova - Dom pod gorco - Avtobusna postaja","P19",1,7462
+85,8500,112991,"Supernova - Dom pod gorco - Avtobusna postaja","P19",1,7462
+85,8500,112992,"Supernova - Dom pod gorco - Avtobusna postaja","P19",1,7462
+85,8500,112993,"Supernova - Dom pod gorco - Avtobusna postaja","P19",1,7462
+85,8500,112998,"Avtobusna postaja - Dom pod gorco - Supernova","P19",0,7461
+85,8500,112999,"Avtobusna postaja - Dom pod gorco - Supernova","P19",0,7461
+85,8500,113000,"Avtobusna postaja - Dom pod gorco - Supernova","P19",0,7461
+85,8500,113001,"Avtobusna postaja - Dom pod gorco - Supernova","P19",0,7461
+85,8500,113002,"Supernova - Dom pod gorco - Avtobusna postaja","P19",1,7462
+85,8500,113003,"Avtobusna postaja - Dom pod gorco - Supernova","P19",0,7461
+85,8500,113004,"Avtobusna postaja - Dom pod gorco - Supernova","P19",0,7461
+85,8500,113005,"Avtobusna postaja - Dom pod gorco - Supernova","P19",0,7461
+85,8500,113006,"Supernova - Dom pod gorco - Avtobusna postaja","P19",1,7462
+85,8500,113007,"Supernova - Dom pod gorco - Avtobusna postaja","P19",1,7462
+85,8500,113008,"Supernova - Dom pod gorco - Avtobusna postaja","P19",1,7462
+69,8500,113374,"Tabor Jadranska - Tezno - Pobrežje -  ŽP Maribor - UK Gosp.","G3",0,7478
+69,8500,113375,"Tabor Jadranska - Tezno - Pobrežje -  ŽP Maribor - UK Gosp.","G3",0,7478
+69,8500,113376,"Tabor Jadranska - Tezno - Pobrežje -  ŽP Maribor - UK Gosp.","G3",0,7478
+69,8500,113377,"Tabor Jadranska - Tezno - Pobrežje -  ŽP Maribor - UK Gosp.","G3",0,7478
+69,8500,113379,"Tabor Jadranska - Tezno - Pobrežje -  ŽP Maribor - UK Gosp.","G3",0,7478
+69,8500,113383,"Tabor Jadranska - Tezno - Pobrežje -  ŽP Maribor - UK Gosp.","G3",0,7478
+69,8500,113384,"Tabor Jadranska - Tezno - Pobrežje -  ŽP Maribor - UK Gosp.","G3",0,7478
+69,8500,113385,"Tabor Jadranska - Tezno - Pobrežje -  ŽP Maribor - UK Gosp.","G3",0,7478
+69,8500,113386,"Tabor Jadranska - Tezno - Pobrežje -  ŽP Maribor - UK Gosp.","G3",0,7478
+69,8500,113387,"Tabor Jadranska - Tezno - Pobrežje -  ŽP Maribor - UK Gosp.","G3",0,7478
+69,8500,113388,"Tabor Jadranska - Tezno - Pobrežje -  ŽP Maribor - UK Gosp.","G3",0,7478
+69,8500,113389,"Tabor Jadranska - Tezno - Pobrežje -  ŽP Maribor - UK Gosp.","G3",0,7478
+69,8500,113390,"Tabor Jadranska - Tezno - Pobrežje -  ŽP Maribor - UK Gosp.","G3",0,7478
+69,8500,113391,"Tabor Jadranska - Tezno - Pobrežje -  ŽP Maribor - UK Gosp.","G3",0,7478
+69,8500,113392,"Tabor Jadranska - Tezno - Pobrežje -  ŽP Maribor - UK Gosp.","G3",0,7478
+69,8500,113394,"Tabor Jadranska - Tezno - Pobrežje -  ŽP Maribor - UK Gosp.","G3",0,7478
+69,8500,113395,"Tabor Jadranska - Tezno - Pobrežje -  ŽP Maribor - UK Gosp.","G3",0,7478
+69,8500,113396,"Tabor Jadranska - Tezno - Pobrežje -  ŽP Maribor - UK Gosp.","G3",0,7478
+69,8500,113397,"Tabor Jadranska - Tezno - Pobrežje -  ŽP Maribor - UK Gosp.","G3",0,7478
+69,8500,113399,"Tabor Jadranska - Tezno - Pobrežje -  ŽP Maribor - UK Gosp.","G3",0,7478
+69,8500,113400,"Tabor Jadranska - Tezno - Pobrežje -  ŽP Maribor - UK Gosp.","G3",0,7478
+69,8500,113401,"Tabor Jadranska - Tezno - Pobrežje -  ŽP Maribor - UK Gosp.","G3",0,7478
+69,8500,113402,"Tabor Jadranska - Tezno - Pobrežje -  ŽP Maribor - UK Gosp.","G3",0,7478
+69,8500,113403,"Tabor Jadranska - Tezno - Pobrežje -  ŽP Maribor - UK Gosp.","G3",0,7478
+69,8500,113404,"Tabor Jadranska - Tezno - Pobrežje -  ŽP Maribor - UK Gosp.","G3",0,7478
+69,8500,113405,"Tabor Jadranska - Tezno - Pobrežje -  ŽP Maribor - UK Gosp.","G3",0,7478
+69,8500,113406,"Tabor Jadranska - Tezno - Pobrežje -  ŽP Maribor - UK Gosp.","G3",0,7478
+69,8500,113407,"Tabor Jadranska - Tezno - Pobrežje -  ŽP Maribor - UK Gosp.","G3",0,7478
+69,8500,113408,"Tabor Jadranska - Tezno - Pobrežje -  ŽP Maribor - UK Gosp.","G3",0,7478
+69,8500,113409,"Tabor Jadranska - Tezno - Pobrežje -  ŽP Maribor - UK Gosp.","G3",0,7478
+69,8500,113410,"Tabor Jadranska - Tezno - Pobrežje -  ŽP Maribor - UK Gosp.","G3",0,7478
+69,8500,113411,"Tabor Jadranska - Tezno - Pobrežje -  ŽP Maribor - UK Gosp.","G3",0,7478
+69,8500,113412,"Tabor Jadranska - Tezno - Pobrežje -  ŽP Maribor - UK Gosp.","G3",0,7478
+69,8500,113413,"Tabor Jadranska - Tezno - Pobrežje -  ŽP Maribor - UK Gosp.","G3",0,7478
+69,8500,113414,"Tabor Jadranska - Tezno - Pobrežje -  ŽP Maribor - UK Gosp.","G3",0,7478
+69,8500,113415,"Tabor Jadranska - Tezno - Pobrežje -  ŽP Maribor - UK Gosp.","G3",0,7478
+69,8500,113416,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113417,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113418,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113420,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113421,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113422,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113423,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113425,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113426,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113427,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113428,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113429,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113430,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113431,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113432,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113433,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113434,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113435,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113436,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113438,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113439,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113440,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113441,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113442,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113443,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113445,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113446,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113447,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113448,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113449,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113450,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113451,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113452,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113453,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113454,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113455,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113456,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113457,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113458,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113459,"Tabor Jadranska - Tezno - Pobrežje -  ŽP Maribor - UK Gosp.","G3",0,7478
+69,8500,113460,"Tabor Jadranska - Tezno - Pobrežje -  ŽP Maribor - UK Gosp.","G3",0,7478
+69,8500,113461,"Tabor Jadranska - Tezno - Pobrežje -  ŽP Maribor - UK Gosp.","G3",0,7478
+84,8503,113535,"Turnerjeva - Pekre","P18",0,7483
+84,8503,113536,"Turnerjeva - Pekre","P18",0,7483
+84,8503,113537,"Turnerjeva - Pekre","P18",0,7483
+84,8503,113538,"Turnerjeva - Pekre","P18",0,7483
+84,8503,113539,"Turnerjeva - Pekre","P18",0,7483
+84,8503,113540,"Turnerjeva - Pekre","P18",0,7483
+84,8503,113541,"Turnerjeva - Pekre","P18",0,7483
+84,8503,113542,"Turnerjeva - Pekre","P18",0,7483
+84,8503,113543,"Turnerjeva - Pekre","P18",0,7483
+84,8503,113544,"Turnerjeva - Pekre","P18",0,7483
+84,8503,113545,"Turnerjeva - Pekre","P18",0,7483
+84,8503,113546,"Turnerjeva - Pekre","P18",0,7483
+84,8503,113547,"Turnerjeva - Pekre","P18",0,7483
+84,8503,113548,"Turnerjeva - Pekre","P18",0,7483
+84,8503,113549,"Turnerjeva - Pekre","P18",0,7483
+84,8503,113550,"Turnerjeva - Pekre","P18",0,7483
+84,8503,113551,"Turnerjeva - Pekre","P18",0,7483
+84,8503,113552,"Turnerjeva - Pekre","P18",0,7483
+84,8503,113553,"Turnerjeva - Pekre","P18",0,7483
+84,8503,113554,"Turnerjeva - Pekre","P18",0,7483
+84,8503,113555,"Turnerjeva - Pekre","P18",0,7483
+84,8503,113556,"Turnerjeva - Pekre","P18",0,7483
+84,8503,113557,"Turnerjeva - Pekre","P18",0,7483
+84,8503,113558,"Turnerjeva - Pekre","P18",0,7483
+84,8503,113560,"Turnerjeva - Pekre","P18",0,7483
+84,8503,113561,"Turnerjeva - Pekre","P18",0,7483
+84,8503,113562,"Turnerjeva - Pekre","P18",0,7483
+84,8503,113563,"Turnerjeva - Pekre","P18",0,7483
+84,8503,113564,"Turnerjeva - Pekre","P18",0,7483
+84,8503,113565,"Turnerjeva - Pekre","P18",0,7483
+84,8503,113566,"Turnerjeva - Pekre","P18",0,7483
+84,8503,113567,"Turnerjeva - Pekre","P18",0,7483
+84,8503,113568,"Turnerjeva - Pekre","P18",0,7483
+84,8503,113569,"Pekre - Turnerjeva","P18",1,7484
+84,8503,113570,"Pekre - Turnerjeva","P18",1,7484
+84,8503,113571,"Pekre - Turnerjeva","P18",1,7484
+84,8503,113572,"Pekre - Turnerjeva","P18",1,7484
+84,8503,113573,"Pekre - Turnerjeva","P18",1,7484
+84,8503,113574,"Pekre - Turnerjeva","P18",1,7484
+84,8503,113575,"Pekre - Turnerjeva","P18",1,7484
+84,8503,113576,"Pekre - Turnerjeva","P18",1,7484
+84,8503,113577,"Pekre - Turnerjeva","P18",1,7484
+84,8503,113578,"Pekre - Turnerjeva","P18",1,7484
+84,8503,113579,"Pekre - Turnerjeva","P18",1,7484
+84,8503,113580,"Pekre - Turnerjeva","P18",1,7484
+84,8503,113581,"Pekre - Turnerjeva","P18",1,7484
+84,8503,113582,"Pekre - Turnerjeva","P18",1,7484
+84,8503,113583,"Pekre - Turnerjeva","P18",1,7484
+84,8503,113584,"Pekre - Turnerjeva","P18",1,7484
+84,8503,113585,"Pekre - Turnerjeva","P18",1,7484
+84,8503,113586,"Pekre - Turnerjeva","P18",1,7484
+84,8503,113587,"Pekre - Turnerjeva","P18",1,7484
+84,8503,113588,"Pekre - Turnerjeva","P18",1,7484
+84,8503,113589,"Pekre - Turnerjeva","P18",1,7484
+84,8503,113590,"Pekre - Turnerjeva","P18",1,7484
+84,8503,113591,"Pekre - Turnerjeva","P18",1,7484
+84,8503,113592,"Pekre - Turnerjeva","P18",1,7484
+84,8503,113593,"Pekre - Turnerjeva","P18",1,7484
+84,8503,113595,"Pekre - Turnerjeva","P18",1,7484
+84,8503,113596,"Pekre - Turnerjeva","P18",1,7484
+84,8503,113597,"Pekre - Turnerjeva","P18",1,7484
+84,8503,113598,"Pekre - Turnerjeva","P18",1,7484
+84,8503,113599,"Pekre - Turnerjeva","P18",1,7484
+84,8503,113600,"Pekre - Turnerjeva","P18",1,7484
+84,8503,113601,"Pekre - Turnerjeva","P18",1,7484
+84,8503,113602,"Pekre - Turnerjeva","P18",1,7484
+84,8503,113603,"Pekre - Turnerjeva","P18",1,7484
+77,8503,113769,"Avtobusna postaja - Betnavska - Razvanje","P11",0,7498
+77,8503,113771,"Avtobusna postaja - Betnavska - Botanični vrt","P11",0,7497
+77,8503,113772,"Avtobusna postaja - Betnavska - Razvanje","P11",0,7498
+77,8503,113773,"Avtobusna postaja - Betnavska - Botanični vrt","P11",0,7497
+77,8503,113774,"Avtobusna postaja - Betnavska - Razvanje","P11",0,7498
+77,8503,113775,"Avtobusna postaja - Betnavska - Botanični vrt","P11",0,7497
+77,8503,113776,"Avtobusna postaja - Betnavska - Razvanje","P11",0,7498
+77,8503,113777,"Avtobusna postaja - Betnavska - Razvanje","P11",0,7498
+77,8503,113778,"Avtobusna postaja - Betnavska - Botanični vrt","P11",0,7497
+77,8503,113779,"Avtobusna postaja - Betnavska - Razvanje","P11",0,7498
+77,8503,113780,"Avtobusna postaja - Betnavska - Botanični vrt","P11",0,7497
+77,8503,113781,"Avtobusna postaja - Betnavska - Razvanje","P11",0,7498
+77,8503,113782,"Avtobusna postaja - Betnavska - Botanični vrt","P11",0,7497
+77,8503,113783,"Avtobusna postaja - Betnavska - Razvanje","P11",0,7498
+77,8503,113784,"Avtobusna postaja - Betnavska - Botanični vrt","P11",0,7497
+77,8503,113785,"Avtobusna postaja - Betnavska - Razvanje","P11",0,7498
+77,8503,113786,"Avtobusna postaja - Betnavska - Botanični vrt","P11",0,7497
+77,8503,113787,"Avtobusna postaja - Betnavska - Razvanje","P11",0,7498
+77,8503,113788,"Avtobusna postaja - Betnavska - Botanični vrt","P11",0,7497
+77,8503,113789,"Avtobusna postaja - Betnavska - Razvanje","P11",0,7498
+77,8503,113790,"Avtobusna postaja - Betnavska - Botanični vrt","P11",0,7497
+77,8503,113791,"Avtobusna postaja - Betnavska - Razvanje","P11",0,7498
+77,8503,113792,"Avtobusna postaja - Betnavska - Razvanje","P11",0,7498
+77,8503,113793,"Avtobusna postaja - Betnavska - Razvanje","P11",0,7498
+77,8503,113794,"Avtobusna postaja - Betnavska - Razvanje","P11",0,7498
+77,8503,113795,"Razvanje - Betnavska - Avtobusna postaja","P11",1,7500
+77,8503,113796,"Razvanje - Betnavska - Avtobusna postaja","P11",1,7500
+77,8503,113797,"Razvanje - Betnavska - Avtobusna postaja","P11",1,7500
+77,8503,113799,"Botanični vrt - Betnavska - Avtobusna postaja","P11",1,7499
+77,8503,113800,"Razvanje - Betnavska - Avtobusna postaja","P11",1,7500
+77,8503,113801,"Razvanje - Betnavska - Avtobusna postaja","P11",1,7500
+77,8503,113802,"Botanični vrt - Betnavska - Avtobusna postaja","P11",1,7499
+77,8503,113803,"Razvanje - Betnavska - Avtobusna postaja","P11",1,7500
+77,8503,113804,"Botanični vrt - Betnavska - Avtobusna postaja","P11",1,7499
+77,8503,113805,"Razvanje - Betnavska - Avtobusna postaja","P11",1,7500
+77,8503,113806,"Razvanje - Betnavska - Avtobusna postaja","P11",1,7500
+77,8503,113807,"Botanični vrt - Betnavska - Avtobusna postaja","P11",1,7499
+77,8503,113808,"Razvanje - Betnavska - Avtobusna postaja","P11",1,7500
+77,8503,113809,"Botanični vrt - Betnavska - Avtobusna postaja","P11",1,7499
+77,8503,113810,"Razvanje - Betnavska - Avtobusna postaja","P11",1,7500
+77,8503,113811,"Botanični vrt - Betnavska - Avtobusna postaja","P11",1,7499
+77,8503,113812,"Razvanje - Betnavska - Avtobusna postaja","P11",1,7500
+77,8503,113813,"Botanični vrt - Betnavska - Avtobusna postaja","P11",1,7499
+77,8503,113814,"Razvanje - Betnavska - Avtobusna postaja","P11",1,7500
+77,8503,113815,"Botanični vrt - Betnavska - Avtobusna postaja","P11",1,7499
+77,8503,113816,"Razvanje - Betnavska - Avtobusna postaja","P11",1,7500
+77,8503,113817,"Botanični vrt - Betnavska - Avtobusna postaja","P11",1,7499
+77,8503,113818,"Razvanje - Betnavska - Avtobusna postaja","P11",1,7500
+77,8503,113819,"Botanični vrt - Betnavska - Avtobusna postaja","P11",1,7499
+77,8503,113820,"Razvanje - Betnavska - Avtobusna postaja","P11",1,7500
+77,8503,113821,"Razvanje - Betnavska - Avtobusna postaja","P11",1,7500
+77,8503,113822,"Razvanje - Betnavska - Avtobusna postaja","P11",1,7500
+69,8500,113825,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+69,8500,113826,"Jadranska - Gosposvetska - Prlek - Pobrežje - Ptujska","G3",1,7479
+74,8500,113827,"Avtobusna postaja - Limbuš - Pekre","P8",0,7501
+74,8500,113828,"Avtobusna postaja - Limbuš - Pekre","P8",0,7501
+74,8500,113829,"Avtobusna postaja - Limbuš - Pekre","P8",0,7501
+74,8500,113832,"Avtobusna postaja - Limbuš - Pekre","P8",0,7501
+74,8500,113833,"Avtobusna postaja - Limbuš - Pekre","P8",0,7501
+74,8500,113834,"Avtobusna postaja - Limbuš - Pekre","P8",0,7501
+74,8500,113835,"Avtobusna postaja - Limbuš - Pekre","P8",0,7501
+74,8500,113836,"Avtobusna postaja - Limbuš - Pekre","P8",0,7501
+74,8500,113837,"Avtobusna postaja - Limbuš - Pekre","P8",0,7501
+74,8500,113838,"Avtobusna postaja - Limbuš - Pekre","P8",0,7501
+74,8500,113839,"Avtobusna postaja - Limbuš - Pekre","P8",0,7501
+74,8500,113841,"Avtobusna postaja - Limbuš - Pekre","P8",0,7501
+74,8500,113842,"Avtobusna postaja - Limbuš - Pekre","P8",0,7501
+74,8500,113843,"Avtobusna postaja - Limbuš - Pekre","P8",0,7501
+74,8500,113844,"Avtobusna postaja - Limbuš - Pekre","P8",0,7501
+74,8500,113845,"Avtobusna postaja - Limbuš - Pekre","P8",0,7501
+74,8500,113846,"Avtobusna postaja - Limbuš - Pekre","P8",0,7501
+74,8500,113847,"Avtobusna postaja - Limbuš - Pekre","P8",0,7501
+65,8504,97197,"Europark - Kamnica","G5",0,6917
+65,8504,97198,"Europark - Kamnica","G5",0,6917
+65,8504,97199,"Europark - Kamnica","G5",0,6917
+65,8504,97200,"Europark - Kamnica","G5",0,6917
+65,8504,97201,"Europark - Kamnica","G5",0,6917
+65,8504,97202,"Europark - Kamnica","G5",0,6917
+65,8504,97203,"Europark - Kamnica","G5",0,6917
+65,8504,97204,"Europark - Kamnica","G5",0,6917
+65,8504,97205,"Europark - Kamnica","G5",0,6917
+65,8504,97206,"Europark - Kamnica","G5",0,6917
+65,8504,97207,"Europark - Kamnica","G5",0,6917
+65,8504,97208,"Europark - Kamnica","G5",0,6917
+65,8504,97209,"Europark - Kamnica","G5",0,6917
+65,8504,97210,"Europark - Kamnica","G5",0,6917
+65,8504,97211,"Europark - Kamnica","G5",0,6917
+65,8504,97212,"Europark - Kamnica","G5",0,6917
+65,8504,97213,"Kamnica - Europark","G5",1,6919
+65,8504,97214,"Kamnica - Europark","G5",1,6919
+65,8504,97215,"Kamnica - Europark","G5",1,6919
+65,8504,97216,"Kamnica - Europark","G5",1,6919
+65,8504,97218,"Kamnica - Europark","G5",1,6919
+65,8504,97219,"Kamnica - Europark","G5",1,6919
+65,8504,97220,"Kamnica - Europark","G5",1,6919
+65,8504,97221,"Kamnica - Europark","G5",1,6919
+65,8504,97223,"Kamnica - Europark","G5",1,6919
+65,8504,97224,"Kamnica - Europark","G5",1,6919
+65,8504,97225,"Kamnica - Europark","G5",1,6919
+65,8504,97226,"Kamnica - Europark","G5",1,6919
+65,8504,97227,"Kamnica - Europark","G5",1,6919
+65,8504,97228,"Kamnica - Europark","G5",1,6919
+65,8504,97229,"Kamnica - Europark","G5",1,6919
+65,8504,97230,"Kamnica - Europark","G5",1,6919
+67,8500,101338,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101339,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101340,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101341,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101342,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101343,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101344,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101345,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101346,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101347,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101348,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101349,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101350,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101351,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101352,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101353,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101354,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101355,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101356,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101357,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101358,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101359,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101360,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101361,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101362,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101363,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101364,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101365,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101366,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101367,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101368,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101369,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101370,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101371,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101372,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101373,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101374,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101375,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101376,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101377,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101378,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101379,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101380,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101381,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101382,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101383,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101384,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101385,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101386,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101387,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101388,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101389,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101390,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101391,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101392,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101394,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101395,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101396,"Avtobusna postaja - Tezno","G1",0,6943
+67,8500,101397,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101398,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101399,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101400,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101401,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101402,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101403,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101404,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101405,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101406,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101407,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101408,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101409,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101410,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101411,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101412,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101413,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101414,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101415,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101416,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101417,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101418,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101419,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101420,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101421,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101422,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101423,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101424,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101425,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101426,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101427,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101428,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101429,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101430,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101431,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101432,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101433,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101434,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101435,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101436,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101437,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101438,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101439,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101440,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101441,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101442,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101443,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101444,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101445,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101446,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101447,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101448,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101449,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101450,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101451,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101452,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101453,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101454,"Tezno - Avtobusna postaja","G1",1,6944
+67,8500,101455,"Tezno - Avtobusna postaja","G1",1,6944
+74,8500,113848,"Pekre - Limbuš - Avtobusna postaja","P8",1,7502
+74,8500,113849,"Pekre - Limbuš - Avtobusna postaja","P8",1,7502
+74,8500,113850,"Pekre - Limbuš - Avtobusna postaja","P8",1,7502
+74,8500,113852,"Pekre - Limbuš - Avtobusna postaja","P8",1,7502
+74,8500,113853,"Pekre - Limbuš - Avtobusna postaja","P8",1,7502
+74,8500,113854,"Pekre - Limbuš - Avtobusna postaja","P8",1,7502
+74,8500,113855,"Pekre - Limbuš - Avtobusna postaja","P8",1,7502
+74,8500,113856,"Pekre - Limbuš - Avtobusna postaja","P8",1,7502
+74,8500,113857,"Pekre - Limbuš - Avtobusna postaja","P8",1,7502
+74,8500,113858,"Pekre - Limbuš - Avtobusna postaja","P8",1,7502
+74,8500,113862,"Pekre - Limbuš - Avtobusna postaja","P8",1,7502
+74,8500,113863,"Pekre - Limbuš - Avtobusna postaja","P8",1,7502
+74,8500,113864,"Pekre - Limbuš - Avtobusna postaja","P8",1,7502
+74,8500,113865,"Pekre - Limbuš - Avtobusna postaja","P8",1,7502
+74,8500,113866,"Pekre - Limbuš - Avtobusna postaja","P8",1,7502
+74,8500,113867,"Pekre - Limbuš - Avtobusna postaja","P8",1,7502
+74,8500,113868,"Pekre - Limbuš - Avtobusna postaja","P8",1,7502
+74,8500,113869,"Pekre - Limbuš - Avtobusna postaja","P8",1,7502
+74,8500,113870,"Avtobusna postaja - Lesarska šola - Limbuš - Pekre","P8",0,7503
+74,8500,113871,"Avtobusna postaja - Lesarska šola - Limbuš - Pekre","P8",0,7503
+74,8500,113872,"Pekre - Limbuš - Lesarska šola - Avtobusna postaja","P8",1,7504
+74,8500,113873,"Avtobusna postaja - Lesarska šola - Limbuš - Pekre","P8",0,7503
+74,8500,113874,"Pekre - Limbuš - Lesarska šola - Avtobusna postaja","P8",1,7504
+74,8500,113875,"Pekre - Limbuš - Lesarska šola - Avtobusna postaja","P8",1,7504
+74,8500,113876,"Pekre - Limbuš - Lesarska šola - Avtobusna postaja","P8",1,7504
+77,8503,113877,"Avtobusna postaja - Betnavska - Razvanje","P11",0,7498
+77,8503,113878,"Razvanje - Betnavska - Avtobusna postaja","P11",1,7500
+71,8504,114047,"Avtobusna postaja - Vzpenjača","G6",0,7515
+71,8504,114048,"Avtobusna postaja - Vzpenjača","G6",0,7515
+71,8504,114049,"Avtobusna postaja - Vzpenjača","G6",0,7515
+71,8504,114050,"Avtobusna postaja - Vzpenjača","G6",0,7515
+71,8504,114051,"Avtobusna postaja - Vzpenjača","G6",0,7515
+71,8504,114052,"Avtobusna postaja - Vzpenjača","G6",0,7515
+71,8504,114053,"Avtobusna postaja - Vzpenjača","G6",0,7515
+71,8504,114054,"Avtobusna postaja - Vzpenjača","G6",0,7515
+71,8504,114055,"Avtobusna postaja - Vzpenjača","G6",0,7515
+71,8504,114056,"Avtobusna postaja - Vzpenjača","G6",0,7515
+71,8504,114057,"Avtobusna postaja - Vzpenjača","G6",0,7515
+71,8504,114058,"Avtobusna postaja - Vzpenjača","G6",0,7515
+71,8504,114059,"Avtobusna postaja - Vzpenjača","G6",0,7515
+71,8504,114060,"Avtobusna postaja - Vzpenjača","G6",0,7515
+71,8504,114061,"Avtobusna postaja - Vzpenjača","G6",0,7515
+71,8504,114062,"Avtobusna postaja - Vzpenjača","G6",0,7515
+71,8504,114063,"Avtobusna postaja - Vzpenjača","G6",0,7515
+71,8504,114064,"Avtobusna postaja - Vzpenjača","G6",0,7515
+71,8504,114065,"Avtobusna postaja - Vzpenjača","G6",0,7515
+71,8504,114066,"Avtobusna postaja - Vzpenjača","G6",0,7515
+71,8504,114067,"Avtobusna postaja - Vzpenjača","G6",0,7515
+71,8504,114068,"Avtobusna postaja - Vzpenjača","G6",0,7515
+71,8504,114069,"Avtobusna postaja - Vzpenjača","G6",0,7515
+71,8504,114070,"Avtobusna postaja - Vzpenjača","G6",0,7515
+71,8504,114071,"Vzpenjača - Avtobusna postaja","G6",1,7516
+71,8504,114072,"Vzpenjača - Avtobusna postaja","G6",1,7516
+71,8504,114073,"Vzpenjača - Avtobusna postaja","G6",1,7516
+71,8504,114074,"Vzpenjača - Avtobusna postaja","G6",1,7516
+71,8504,114075,"Vzpenjača - Avtobusna postaja","G6",1,7516
+71,8504,114076,"Vzpenjača - Avtobusna postaja","G6",1,7516
+71,8504,114077,"Vzpenjača - Avtobusna postaja","G6",1,7516
+71,8504,114078,"Vzpenjača - Avtobusna postaja","G6",1,7516
+71,8504,114079,"Vzpenjača - Avtobusna postaja","G6",1,7516
+71,8504,114080,"Vzpenjača - Avtobusna postaja","G6",1,7516
+71,8504,114081,"Vzpenjača - Avtobusna postaja","G6",1,7516
+71,8504,114082,"Vzpenjača - Avtobusna postaja","G6",1,7516
+71,8504,114083,"Vzpenjača - Avtobusna postaja","G6",1,7516
+71,8504,114084,"Vzpenjača - Avtobusna postaja","G6",1,7516
+71,8504,114085,"Vzpenjača - Avtobusna postaja","G6",1,7516
+71,8504,114086,"Vzpenjača - Avtobusna postaja","G6",1,7516
+71,8504,114087,"Vzpenjača - Avtobusna postaja","G6",1,7516
+71,8504,114088,"Vzpenjača - Avtobusna postaja","G6",1,7516
+71,8504,114089,"Vzpenjača - Avtobusna postaja","G6",1,7516
+71,8504,114090,"Vzpenjača - Avtobusna postaja","G6",1,7516
+71,8504,114091,"Vzpenjača - Avtobusna postaja","G6",1,7516
+71,8504,114092,"Vzpenjača - Avtobusna postaja","G6",1,7516
+71,8504,114093,"Vzpenjača - Avtobusna postaja","G6",1,7516
+71,8504,114094,"Vzpenjača - Avtobusna postaja","G6",1,7516
+71,8504,114095,"Vzpenjača - Avtobusna postaja","G6",1,7516
+71,8504,114096,"Vzpenjača - Avtobusna postaja","G6",1,7516
+71,8504,114098,"Vzpenjača - Avtobusna postaja","G6",1,7516
+71,8504,114099,"Vzpenjača - Avtobusna postaja","G6",1,7516
+71,8504,114100,"Vzpenjača - Avtobusna postaja","G6",1,7516
+71,8504,114101,"Vzpenjača - Avtobusna postaja","G6",1,7516
+71,8504,114102,"Avtobusna postaja - Vzpenjača","G6",0,7515
+71,8504,114104,"Avtobusna postaja - Vzpenjača","G6",0,7515
+71,8504,114105,"Avtobusna postaja - Vzpenjača","G6",0,7515
+71,8504,114106,"Avtobusna postaja - Vzpenjača","G6",0,7515
+71,8504,114107,"Avtobusna postaja - Vzpenjača","G6",0,7515
+67,8504,114159,"Avtobusna postaja - Tezno","G1",0,7519
+67,8504,114160,"Avtobusna postaja - Tezno","G1",0,7519
+67,8504,114161,"Avtobusna postaja - Tezno","G1",0,7519
+67,8504,114162,"Avtobusna postaja - Tezno","G1",0,7519
+67,8504,114163,"Avtobusna postaja - Tezno","G1",0,7519
+67,8504,114164,"Avtobusna postaja - Tezno","G1",0,7519
+67,8504,114165,"Avtobusna postaja - Tezno","G1",0,7519
+67,8504,114166,"Avtobusna postaja - Tezno","G1",0,7519
+67,8504,114167,"Avtobusna postaja - Tezno","G1",0,7519
+67,8504,114168,"Avtobusna postaja - Tezno","G1",0,7519
+67,8504,114169,"Avtobusna postaja - Tezno","G1",0,7519
+67,8504,114170,"Avtobusna postaja - Tezno","G1",0,7519
+67,8504,114171,"Avtobusna postaja - Tezno","G1",0,7519
+67,8504,114172,"Avtobusna postaja - Tezno","G1",0,7519
+67,8504,114173,"Avtobusna postaja - Tezno","G1",0,7519
+67,8504,114174,"Avtobusna postaja - Tezno","G1",0,7519
+67,8504,114175,"Avtobusna postaja - Tezno","G1",0,7519
+67,8504,114176,"Avtobusna postaja - Tezno","G1",0,7519
+67,8504,114177,"Avtobusna postaja - Tezno","G1",0,7519
+67,8504,114178,"Avtobusna postaja - Tezno","G1",0,7519
+67,8504,114179,"Avtobusna postaja - Tezno","G1",0,7519
+67,8504,114180,"Avtobusna postaja - Tezno","G1",0,7519
+67,8504,114181,"Avtobusna postaja - Tezno","G1",0,7519
+67,8504,114182,"Tezno - Avtobusna postaja","G1",1,7520
+67,8504,114183,"Tezno - Avtobusna postaja","G1",1,7520
+67,8504,114184,"Tezno - Avtobusna postaja","G1",1,7520
+67,8504,114185,"Tezno - Avtobusna postaja","G1",1,7520
+67,8504,114186,"Tezno - Avtobusna postaja","G1",1,7520
+67,8504,114187,"Tezno - Avtobusna postaja","G1",1,7520
+67,8504,114188,"Tezno - Avtobusna postaja","G1",1,7520
+67,8504,114189,"Tezno - Avtobusna postaja","G1",1,7520
+67,8504,114190,"Tezno - Avtobusna postaja","G1",1,7520
+67,8504,114191,"Tezno - Avtobusna postaja","G1",1,7520
+67,8504,114192,"Tezno - Avtobusna postaja","G1",1,7520
+67,8504,114193,"Tezno - Avtobusna postaja","G1",1,7520
+67,8504,114194,"Tezno - Avtobusna postaja","G1",1,7520
+67,8504,114195,"Tezno - Avtobusna postaja","G1",1,7520
+67,8504,114196,"Tezno - Avtobusna postaja","G1",1,7520
+67,8504,114197,"Tezno - Avtobusna postaja","G1",1,7520
+67,8504,114198,"Tezno - Avtobusna postaja","G1",1,7520
+67,8504,114199,"Tezno - Avtobusna postaja","G1",1,7520
+67,8504,114200,"Tezno - Avtobusna postaja","G1",1,7520
+67,8504,114201,"Tezno - Avtobusna postaja","G1",1,7520
+67,8504,114202,"Tezno - Avtobusna postaja","G1",1,7520
+67,8504,114203,"Tezno - Avtobusna postaja","G1",1,7520
+67,8504,114204,"Tezno - Avtobusna postaja","G1",1,7520
+67,8504,114205,"Tezno - Avtobusna postaja","G1",1,7520
+71,8504,114206,"Avtobusna postaja - Vzpenjača","G6",0,7515
+71,8504,114259,"Avtobusna postaja - Vzpenjača","G6",0,7515
+71,8504,114260,"Avtobusna postaja - Vzpenjača","G6",0,7515
+71,8504,114262,"Avtobusna postaja - Vzpenjača","G6",0,7515
+71,8504,114263,"Vzpenjača - Avtobusna postaja","G6",1,7516
+71,8504,114264,"Vzpenjača - Avtobusna postaja","G6",1,7516
+71,8504,114266,"Vzpenjača - Avtobusna postaja","G6",1,7516
+68,8504,114270,"Avtobusna postaja - Ljubljanska - Nova vas","G2",0,7099
+68,8504,114271,"Nova vas - Ljubljanska - Avtobusna postaja","G2",1,7100
+79,8500,114272,"Avtobusna postaja - Poštni center Tezno","P13",0,6963
+79,8500,114273,"Poštni center Tezno - Avtobusna postaja","P13",1,6964
+79,8500,114274,"Avtobusna postaja - Poštni center Tezno","P13",0,6963
+79,8500,114275,"Poštni center Tezno - Avtobusna postaja","P13",1,6964

@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url
+"MARPROM","https://www.marprom.si","sl","20260208","20260625","v1.0","marprom.transit@gmail.com","https://www.marprom.si"

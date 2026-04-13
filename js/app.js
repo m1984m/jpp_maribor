@@ -20,6 +20,7 @@
     let speed = 1;
     let lastFrameTime = null;
     let animFrameId = null;
+    let lineWidth = 3;            // route line width (slider)
 
     // Follow mode
     let followTripId = null;
@@ -46,6 +47,7 @@
     const followBanner = $('follow-banner');
     const followInfo = $('follow-info');
     const followClose = $('follow-close');
+    const lineWidthSlider = $('line-width-slider');
 
     // ── Load data ──
 
@@ -194,9 +196,9 @@
             data: routeLinesCache,
             getPath: d => d.coords,
             getColor: d => d.color,
-            getWidth: 3,
-            widthMinPixels: 1.5,
-            widthMaxPixels: 4,
+            getWidth: lineWidth,
+            widthMinPixels: Math.max(1, lineWidth * 0.5),
+            widthMaxPixels: lineWidth * 2,
             jointRounded: true,
             capRounded: true,
             parameters: { depthTest: false }
@@ -210,8 +212,8 @@
             getTimestamps: d => d.path.map(p => p[2]),
             getColor: d => [...d.color, 50],
             opacity: 0.35,
-            widthMinPixels: 12,
-            widthMaxPixels: 28,
+            widthMinPixels: Math.max(6, lineWidth * 4),
+            widthMaxPixels: Math.max(14, lineWidth * 9),
             jointRounded: true,
             capRounded: true,
             trailLength: TRAIL * 0.5,
@@ -227,8 +229,8 @@
             getTimestamps: d => d.path.map(p => p[2]),
             getColor: d => d.color,
             opacity: 0.85,
-            widthMinPixels: 3,
-            widthMaxPixels: 7,
+            widthMinPixels: Math.max(1.5, lineWidth),
+            widthMaxPixels: Math.max(3, lineWidth * 2.5),
             jointRounded: true,
             capRounded: true,
             trailLength: TRAIL,
@@ -644,6 +646,12 @@
         const dlon = (lon2 - lon1) * 111320 * Math.cos(lat1 * 0.01745329);
         return Math.sqrt(dlat * dlat + dlon * dlon);
     }
+
+    // ── Line width slider ──
+    lineWidthSlider.addEventListener('input', () => {
+        lineWidth = parseFloat(lineWidthSlider.value);
+        renderLayers();
+    });
 
     // ── Start ──
     init();
